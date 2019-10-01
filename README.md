@@ -1,6 +1,6 @@
 9/25/19
 
-Introduction:
+# Introduction: #
 
 Hi! My name is Dane and I have been working as a CS 235 TA for the past 3.5
 years. Currently, I am responsible to make sure the driver is running for
@@ -9,7 +9,7 @@ driver and what I plan on doing with the driver during fall 2019 semester.
 
 
 
-History of The Driver:
+# History of The Driver: #
 
 Ever since Brother Roper began teaching CS 235 in Fall 2017, Brother Roper's
 goal was to relieve the responsibility of TAs passing off students by creating
