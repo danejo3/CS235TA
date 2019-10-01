@@ -1,0 +1,8 @@
+Student Final Grades:
+          Cody Coder  87.4(C)
+       Harry Houdini  86.5(C)
+        Harry Potter  87.4(C)
+        Mad Mulligun  95.9(B)
+   George Washington  85.1(C)
+     Abraham Lincoln  90.8(C)
+Class Average Score = 88.8

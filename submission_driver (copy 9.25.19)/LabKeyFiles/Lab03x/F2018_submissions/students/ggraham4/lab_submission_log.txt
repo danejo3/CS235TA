@@ -1,0 +1,8 @@
+2018-09-18 17:20:29,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-19 15:16:09,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-20 00:38:22,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-20 12:13:52,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-20 12:14:25,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-20 12:16:29,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-20 12:17:39,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""
+2018-09-20 19:22:11,Lab01,ggraham4,3,V,(grades.zip),gerrittgraham1@byu.net,""

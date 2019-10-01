@@ -1,0 +1,21 @@
+Set: dog dog cat cat cat dog
+Set: Abe Bob Cam Dan Elf Fay
+
+Pokemon: Charmander fire
+Pokemon: Squirtle water
+
+Move: flamethrower fire
+Move: water_gun water
+
+Effective: fire grass ice bug steel
+Effective: water ground rock fire
+
+Ineffective: fire rock fire water
+Ineffective: water water grass
+
+Pokemon
+Moves
+Effectivities
+Ineffectivities
+
+Battle: Charmander flamethrower Squirtle water_gun

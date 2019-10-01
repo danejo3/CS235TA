@@ -1,0 +1,223 @@
+Solve Maze:
+Layer 1
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+Layer 2
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 3
+ X _ X _ X X X X X X X _ X _ X X X X X X
+ X _ X X X X X X X X X _ X X X X X X X X
+ X _ _ _ X X X X X X X _ _ _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X X X X X X _ X _ X X X X X X
+ X _ X X X X X X X X X _ X X X X X X X X
+ X _ _ _ X X X X X X X _ _ _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 4
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 5
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+Layer 6
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ X X _
+Layer 7
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ _ X _ X X X _ _ _ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+Layer 8
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X _ _ X X X _ X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 9
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X _
+ X X X X X X X X X X X X X X X _ _ _ _ _
+ _ X X X X X X X X _ _ X X X X X X X X X
+Layer 10
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ _ _ _
+
+Solution:
+Layer 1
+ R I X D X X X D L L L L X _ X X X _ _ _
+ X X X D X X X D X _ X X X _ X X X _ X _
+ D L L L X X X D X _ _ _ _ _ X X X _ X _
+ D X X X X X X D X _ _ X X X X X X _ X _
+ D X X X X X X D X _ _ X X X X X X _ X _
+ R I X _ X X X R R R R I X _ X X X _ _ _
+ X X X _ X X X _ X _ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+Layer 2
+ X I X O X X _ _ X X X O X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X I X _ X X _ _ X X X I X _ X X _ _ X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 3
+ X D X O X X X X X X X O X _ X X X X X X
+ X D X X X X X X X X X U X X X X X X X X
+ X R R I X X X X X X X U L L X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X D X _ X X X X X X X D X _ X X X X X X
+ X D X X X X X X X X X D X X X X X X X X
+ X R R I X X X X X X X R R I X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 4
+ X X X O X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X I X X _ X X X X X X O X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X I X X _ X X X X X X I X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 5
+ X X X O X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X I X X X X X X X X X O X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X I X X X X X X X X X I X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ _ X X X X X X X X _ _ X X X X X X X X _
+Layer 6
+ X X X O X X _ X X X X X X D X X _ X X X
+ X X X U X X _ X X X X X X D X X _ X X X
+ X X X U X X _ X X X X X X O X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ I L L L _ _ _ X X I L L L L _ _ _ X X _
+ X X X U X X _ X X X X X X U X X _ X X X
+ X X X U X X _ X X X X X X U X X _ X X X
+ X X X U X X _ X X X X X X U X X _ X X X
+ X X X X X _ _ X X X X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ _ X X _
+Layer 7
+ _ _ X _ X X X R R D _ _ X O X X X R R D
+ X X X _ X X X _ X D X X X U X X X _ X D
+ _ _ _ _ X X X _ X R R R R U X X X _ X D
+ _ X X X X X X _ X _ _ X X X X X X _ X D
+ I X X X X X X _ X R D X X X X X X _ X D
+ _ _ X _ X X X _ _ D L _ X I X X X I L L
+ X X X _ X X X _ X D X X X U X X X _ X _
+ _ _ _ _ X X X _ X R R R R U X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+ _ X X X X X X _ X _ _ X X X X X X _ X _
+Layer 8
+ X _ X _ X X R O X X X _ X _ X X R O X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ X X X X X X _ X X X X X X X X X _ X X X
+ I X X X X X _ X X _ _ X X X X X _ X X _
+ X _ X _ X X _ _ X X X _ X I X X D L X X
+ X X X X X X _ X X X X X X X X X D X X X
+ X X X X X X _ X X X X X X X X X D X X X
+ X X X X X X _ X X X X X X X X X I X X X
+ _ X X X X X _ X X _ _ X X X X X _ X X _
+Layer 9
+ X X X _ X X O X X X X X X _ X X O X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X X
+ X X X X X X X X X X X X X X X X X X X X
+ I X X X X X X X X _ _ X X X X X X X X _
+ X X X _ X X _ X X X X X X I X X _ X X X
+ X X X X X X X X X X X X X X X X X X X X
+ X X X _ X X X X X X X X X _ X X X X X _
+ X X X X X X X X X X X X X X X I L _ _ _
+ _ X X X X X X X X _ _ X X X X X X X X X
+Layer 10
+ X X X _ X X O X X X X X X _ X X O X X X
+ X X X _ X X U X X X X X X _ X X U X X X
+ X X X _ X X U X X X X X X _ X X U X X X
+ X X X X X _ U X X X X X X X X _ U X X X
+ R R R R R R U X X _ _ _ _ R R R U X X _
+ X X X _ X X _ X X X X X X U X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X _ X X _ X X X X X X _ X X _ X X X
+ X X X X X _ _ X X X X X X X X R D X X X
+ _ _ _ _ _ _ _ X X _ _ _ _ _ _ _ R R R E

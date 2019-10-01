@@ -1,0 +1,13 @@
+Add:station 0
+Remove:station
+Add:station 1
+Remove:station
+Add:station 2
+Remove:station
+Add:station 3
+Remove:station
+Add:station 4
+Remove:station
+Train:
+Remove:station
+Train:

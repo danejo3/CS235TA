@@ -1,0 +1,9 @@
+Exam Averages:
+    Exam 1 Average =   90.3
+    Exam 2 Average =   87.3
+    Exam 3 Average =   93.3
+    Exam 4 Average =   87.8
+    Exam 5 Average =   95.0
+    Exam 6 Average =   83.0
+    Exam 7 Average =   85.8
+    Exam 8 Average =   88.0

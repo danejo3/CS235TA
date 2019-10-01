@@ -1,0 +1,21 @@
+Course Grades:
+CS101,Charlie,A
+CS101,Schroeder,B
+CS101,Patty,B-
+CS101,Frieda,B
+CS101,Woodstock,A-
+CS101,Lucy,A-
+
+CS202,Woodstock,A
+
+EE200,Charlie,C
+EE200,Schroeder,B
+EE200,Pig Pen,C
+EE200,Frieda,C
+EE200,Snoopy,B+
+EE200,Woodstock,B
+
+PH100,Pig Pen,C+
+PH100,Snoopy,C+
+PH100,Patty,C+
+PH100,Shermy,C+

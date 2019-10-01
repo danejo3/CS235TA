@@ -1,0 +1,47 @@
+Set: dog dog cat cat cat dog
+  [cat,dog]
+
+Set: Abe Bob Cam Dan Elf Fay
+  [Abe,Bob,Cam,Dan,Elf,Fay]
+
+Pokemon: Charmander fire
+Pokemon: Squirtle water
+Move: flamethrower fire
+Move: water_gun water
+Effective: fire grass ice bug steel
+Effective: water ground rock fire
+Ineffective: fire rock fire water
+Ineffective: water water grass
+
+Pokemon: 2/31
+  [5:Charmander->fire]
+  [21:Squirtle->water]
+
+Moves: 2/31
+  [9:flamethrower->fire]
+  [26:water_gun->water]
+
+Effectivities: 2/31
+  [9:fire->bug,grass,ice,steel]
+  [26:water->fire,ground,rock]
+
+Ineffectivities: 2/31
+  [9:fire->fire,rock,water]
+  [26:water->grass,water]
+
+Battle: Charmander flamethrower Squirtle water_gun
+  Charmander (flamethrower) vs Squirtle (water_gun)
+  Charmander is a fire type Pokemon.
+  Squirtle is a water type Pokemon.
+  flamethrower is a fire type move.
+  water_gun is a water type move.
+  flamethrower is super effective against [bug,grass,ice,steel] type Pokemon.
+  flamethrower is ineffective against [fire,rock,water] type Pokemon.
+  Charmander's flamethrower is ineffective against Squirtle
+  water_gun is super effective against [fire,ground,rock] type Pokemon.
+  water_gun is ineffective against [grass,water] type Pokemon.
+  Squirtle's water_gun is super effective against Charmander
+  In the battle between Charmander and Squirtle, Squirtle wins!
+
+Winner: -2
+

@@ -1,0 +1,9 @@
+Exam Grades:
+    Exam  1    0(A)    2(B)    2(C)    2(D)    0(E)
+    Exam  2    0(A)    3(B)    1(C)    0(D)    2(E)
+    Exam  3    0(A)    4(B)    1(C)    0(D)    1(E)
+    Exam  4    0(A)    2(B)    2(C)    1(D)    1(E)
+    Exam  5    0(A)    0(B)    5(C)    1(D)    0(E)
+    Exam  6    2(A)    0(B)    1(C)    3(D)    0(E)
+    Exam  7    0(A)    2(B)    2(C)    2(D)    0(E)
+    Exam  8    0(A)    3(B)    1(C)    0(D)    2(E)

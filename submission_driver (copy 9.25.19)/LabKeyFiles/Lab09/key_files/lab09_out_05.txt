@@ -1,0 +1,247 @@
+Pokemon: bulbasaur grass
+Pokemon: ivysaur grass
+Pokemon: venusaur grass
+Pokemon: charmeleon fire
+Pokemon: charizard fire
+Pokemon: squirtle water
+Pokemon: wartortle water
+Pokemon: blastoise water
+Pokemon: caterpie bug
+Pokemon: metapod bug
+Pokemon: butterfree bug
+Pokemon: weedle bug
+Pokemon: kakuna bug
+Pokemon: beedrill bug
+Pokemon: pidgey normal
+Pokemon: pidgeotto normal
+Pokemon: pidgeot normal
+Pokemon: rattata normal
+Pokemon: raticate normal
+Pokemon: spearow normal
+Pokemon: fearow normal
+Pokemon: ekans poison
+Pokemon: arbok poison
+Pokemon: pikachu electric
+Pokemon: raichu electric
+Pokemon: sandshrew ground
+Pokemon: sandslash ground
+Move: absorb grass
+Move: accelerock rock
+Move: acid poison
+Move: acid_armor poison
+Move: acid_downpour poison
+Move: acid_spray poison
+Move: acrobatics flying
+Move: acupressure normal
+Move: aerial_ace flying
+Move: aeroblast flying
+Move: after_you normal
+Move: agility psychic
+Move: air_cutter flying
+Move: air_slash flying
+Move: ally_switch psychic
+Move: amnesia psychic
+Move: anchor_shot steel
+Move: instruct psychic
+Move: ion_deluge electric
+Move: iron_defense steel
+Move: iron_head steel
+Move: iron_tail steel
+Move: judgment normal
+Move: mega_drain grass
+Move: mega_kick normal
+Move: mega_punch normal
+Move: megahorn bug
+Move: memento dark
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+Effective: water fire ground rock
+Effective: psychic fighting poison
+Effective: steel rock
+Effective: bug grass psychic dark
+Effective: rock fire flying bug
+Effective: flying grass fighting bug
+Effective: dark psychic ghost
+Effective: fighting rock dark steel
+Effective: ghost psychic ghost
+Effective: poison grass
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+Effective: water fire ground rock
+Effective: psychic fighting poison
+Effective: steel rock
+Effective: bug grass psychic dark
+Effective: rock fire flying bug
+Effective: flying grass fighting bug
+Effective: dark psychic ghost
+Effective: fighting rock dark steel
+Effective: ghost psychic ghost
+Effective: poison grass
+Effective: aeroblast flying
+Effective: after_you normal
+Effective: agility psychic
+Effective: air_cutter flying
+Effective: air_slash flying
+Effective: pummeling fighting
+Effective: ally_switch psychic
+Effective: amnesia psychic
+Effective: anchor_shot steel
+Effective: iron_tail steel
+Effective: judgment normal
+Effective: mega_drain grass
+Effective: mega_kick normal
+Effective: mega_punch normal
+Effective: megahorn bug
+Effective: memento dark
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: fire rock fire water
+Ineffective: water water grass
+Ineffective: psychic steel psychic dark
+Ineffective: steel steel fire water
+Ineffective: bug fighting flying poison ghost steel fire
+Ineffective: rock fighting steel
+Ineffective: flying rock steel
+Ineffective: dark fighting dark
+Ineffective: fighting flying poison bug psychic
+Ineffective: ghost dark
+Ineffective: poison poison rock ghost steel
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: flame rock fire water
+Ineffective: gasoline water grass
+Ineffective: stick steel psychic dark
+Ineffective: iron steel fire water
+Ineffective: bug fighting flying poison ghost steel fire
+Ineffective: rock fighting steel
+Ineffective: flying rock steel
+Ineffective: dark fighting dark
+Ineffective: fighting: flying poison bug psychic
+Ineffective: ghost dark
+Ineffective: poison poison rock ghost steel
+Ineffective: absorb grass
+Ineffective: accelerock rock
+Ineffective: acid poison
+Ineffective: acid_armor poison
+Ineffective: acid_downpour poison
+Ineffective: acid_spray poison
+Ineffective: poison_fang poison
+Ineffective: poison_gas poison
+Ineffective: pollen_puff bug
+Ineffective: pound normal
+
+Pokemon: 27/62
+  [3:bulbasaur->grass]
+  [4:raticate->normal]
+  [6:butterfree->bug]
+  [7:sandslash->ground]
+  [11:spearow->normal]
+  [17:squirtle->water]
+  [25:sandshrew->ground]
+  [30:pidgey->normal]
+  [32:metapod->bug]
+  [34:raichu->electric]
+  [35:venusaur->grass]
+  [36:kakuna->bug]
+  [43:arbok->poison]
+  [44:weedle->bug]
+  [47:pikachu->electric]
+  [49:beedrill->bug]
+  [50:ekans->poison]
+  [51:fearow->normal]
+  [52:ivysaur->grass]
+  [53:pidgeot->normal]
+  [54:charizard->fire]
+  [55:charmeleon->fire]
+  [56:caterpie->bug]
+  [57:wartortle->water]
+  [58:rattata->normal]
+  [59:blastoise->water]
+  [60:pidgeotto->normal]
+
+Moves: 28/62
+  [0:anchor_shot->steel]
+  [2:accelerock->rock]
+  [5:mega_kick->normal]
+  [6:acid_downpour->poison]
+  [7:acupressure->normal]
+  [8:ion_deluge->electric]
+  [9:acid_armor->poison]
+  [15:agility->psychic]
+  [16:memento->dark]
+  [17:iron_head->steel]
+  [19:acid->poison]
+  [25:mega_drain->grass]
+  [27:iron_tail->steel]
+  [28:acrobatics->flying]
+  [29:aerial_ace->flying]
+  [31:absorb->grass]
+  [32:iron_defense->steel]
+  [33:aeroblast->flying]
+  [35:megahorn->bug]
+  [36:judgment->normal]
+  [42:after_you->normal]
+  [46:instruct->psychic]
+  [48:amnesia->psychic]
+  [55:ally_switch->psychic]
+  [56:mega_punch->normal]
+  [58:air_slash->flying]
+  [59:acid_spray->poison]
+  [60:air_cutter->flying]
+
+Effectivities: 28/62
+  [0:anchor_shot->steel]
+  [3:steel->rock]
+  [5:mega_kick->normal]
+  [15:agility->psychic]
+  [16:pummeling->fighting]
+  [17:water->fire,ground,rock]
+  [18:rock->bug,fire,flying]
+  [19:memento->dark]
+  [25:ghost->ghost,psychic]
+  [26:mega_drain->grass]
+  [27:iron_tail->steel]
+  [33:aeroblast->flying]
+  [34:bug->dark,grass,psychic]
+  [35:poison->grass]
+  [36:judgment->normal]
+  [37:psychic->fighting,poison]
+  [39:megahorn->bug]
+  [42:after_you->normal]
+  [44:grass->ground,rock,water]
+  [48:amnesia->psychic]
+  [49:flying->bug,fighting,grass]
+  [50:fire->bug,grass,ice,steel]
+  [54:dark->ghost,psychic]
+  [55:fighting->dark,rock,steel]
+  [56:ally_switch->psychic]
+  [58:air_slash->flying]
+  [59:mega_punch->normal]
+  [60:air_cutter->flying]
+
+Ineffectivities: 27/62
+  [2:accelerock->rock]
+  [3:steel->fire,steel,water]
+  [6:acid_downpour->poison]
+  [9:acid_armor->poison]
+  [17:water->grass,water]
+  [18:rock->fighting,steel]
+  [19:acid->poison]
+  [21:flame->fire,rock,water]
+  [22:poison_gas->poison]
+  [25:ghost->dark]
+  [26:iron->fire,steel,water]
+  [31:absorb->grass]
+  [32:stick->dark,psychic,steel]
+  [34:bug->fighting,fire,flying,ghost,poison,steel]
+  [35:poison->ghost,poison,rock,steel]
+  [36:pound->normal]
+  [37:psychic->dark,psychic,steel]
+  [38:fighting:->bug,flying,poison,psychic]
+  [42:pollen_puff->bug]
+  [44:grass->bug,fire,flying,grass,poison,steel]
+  [46:gasoline->grass,water]
+  [49:flying->rock,steel]
+  [50:fire->fire,rock,water]
+  [53:poison_fang->poison]
+  [54:dark->dark,fighting]
+  [55:fighting->bug,flying,poison,psychic]
+  [59:acid_spray->poison]

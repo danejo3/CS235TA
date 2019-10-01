@@ -1,0 +1,13 @@
+compiling files:
+Source.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+Source.cpp: In function ‘int main(int, char**)’:
+Source.cpp:62:31: error: expression in new-declarator must have integral or enumeration type
+  int **scoresArray = new int*[rows];
+                               ^~~~
+Source.cpp:65:29: error: expression in new-declarator must have integral or enumeration type
+   scoresArray[i] = new int [cols];
+                             ^~~~
+
+Compilation Failed!

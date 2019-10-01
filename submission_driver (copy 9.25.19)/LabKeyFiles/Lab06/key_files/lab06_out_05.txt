@@ -1,0 +1,26 @@
+Add:station 1 OK
+Add:queue OK
+Remove:queue OK
+Add:queue OK
+Remove:queue OK
+Add:queue OK
+Add:station 2 OK
+Add:queue OK
+Add:station 3 OK
+Add:stack OK
+Add:station 4 OK
+Add:stack OK
+Add:station 5 OK
+Remove:station OK
+Add:station 6 OK
+Remove:station OK
+Add:station 7 OK
+Find:1 Queue[0]
+Find:2 Queue[1]
+Find:3 Stack[0]
+Find:4 Stack[1]
+Find:5 Train[0]
+Find:6 Train[1]
+Find:7 Turntable
+Find:8 Not Found!
+Train:  5 6

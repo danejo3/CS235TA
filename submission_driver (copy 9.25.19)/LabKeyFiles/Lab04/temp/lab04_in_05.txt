@@ -1,0 +1,29 @@
+INT
+insertHead 10
+insertHead 9
+insertHead 8
+insertHead 7
+insertHead 6
+insertHead 5
+insertHead 4
+insertHead 3
+insertHead 2
+insertHead 1
+insertHead 0
+insertAfter 1 -1
+insertAfter 0 9999
+insertAfter 10 12
+insertAfter 10 12
+insertAfter 99 99
+size
+iterateList
+STRING
+insertTail not
+insertHead with
+insertTail dreams.
+insertHead Die
+insertAfter with memories,
+insertAfter Die dreams.
+insertAfter memories Die
+size
+iterateList

@@ -1,0 +1,18 @@
+Pokemon: Charmander fire
+Pokemon: Bulbasaur grass
+
+Move: flamethrower fire
+Move: scratch normal
+
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: fire rock fire water
+
+Pokemon
+Moves
+Effectivities
+Ineffectivities
+
+Battle: Charmander flamethrower Bulbasaur scratch

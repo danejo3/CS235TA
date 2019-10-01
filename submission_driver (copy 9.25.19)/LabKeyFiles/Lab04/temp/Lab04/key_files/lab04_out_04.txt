@@ -1,0 +1,31 @@
+
+Insert The quick brown fox jumped over the lazy dog.
+Reverse OK
+PrintList The quick brown fox jumped over the lazy dog.
+Iterate
+ [The]
+ [quick]
+ [brown]
+ [fox]
+ [jumped]
+ [over]
+ [the]
+ [lazy]
+ [dog.]
+InsertAfter foxy fox OK
+PrintList The quick brown fox foxy jumped over the lazy dog.
+Erase fox OK
+Iterate
+ [The]
+ [quick]
+ [brown]
+ [foxy]
+ [jumped]
+ [over]
+ [the]
+ [lazy]
+ [dog.]
+Find fox false
+Find brown true
+Clear OK
+Iterate Empty!

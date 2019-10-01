@@ -1,0 +1,17 @@
+
+Insert Hello
+PrintList Hello
+Iterate
+ [Hello]
+Clear OK
+Insert time! the is Now
+PrintList Now is the time!
+Erase time! OK
+PrintList Now is the
+Iterate
+ [Now]
+ [is]
+ [the]
+Clear OK
+PrintList Empty
+Iterate Empty!

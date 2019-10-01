@@ -1,0 +1,6 @@
+compiling files:
+Main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+
+Compilation Succeeded!

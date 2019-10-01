@@ -1,0 +1,2 @@
+Expression: 3 $ 3
+Infix: Illegal Operator

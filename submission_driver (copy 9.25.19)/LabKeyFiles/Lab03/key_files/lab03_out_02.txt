@@ -1,0 +1,8 @@
+Insert The very quick brown fox jumped over the very lazy dog.
+PrintList dog. lazy very the over jumped fox brown quick very The
+Size 11
+Empty false
+Clear OK
+Empty true
+Size 0
+PrintList Empty!

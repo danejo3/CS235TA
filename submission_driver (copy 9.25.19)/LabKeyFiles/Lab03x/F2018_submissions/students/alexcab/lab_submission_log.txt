@@ -1,0 +1,5 @@
+2018-09-20 18:59:07,Lab01,alexcab,11,V,(grades.zip),alexandermichelcabrera@gmail.com,""
+2018-09-20 19:03:33,Lab01,alexcab,11,V,(grades.zip),alexandermichelcabrera@gmail.com,""
+2018-09-20 19:39:19,Lab01,alexcab,11,V,(grades.zip),alexandermichelcabrera@gmail.com,""
+2018-09-20 19:44:14,Lab01,alexcab,11,V,(grades.zip),alexandermichelcabrera@gmail.com,""
+2018-09-20 20:02:36,Lab01,alexcab,11,V,(grades.zip),alexandermichelcabrera@gmail.com,""

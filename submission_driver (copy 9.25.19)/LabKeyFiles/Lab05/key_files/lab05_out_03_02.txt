@@ -1,0 +1,4 @@
+Expression: 3 + 5 * 6 - 8
+Infix: 3 + 5 * 6 - 8 
+Postfix: 3 5 6 * + 8 - 
+Value: 25

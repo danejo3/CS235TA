@@ -1,0 +1,5 @@
+Battle: Natu psybeam Tyranitar iron_tail
+  Natu (psybeam) vs Tyranitar (iron_tail)
+  Natu's psybeam is effective against Tyranitar
+  Tyranitar's iron_tail is effective against Natu
+  The battle between Natu and Tyranitar is a tie.

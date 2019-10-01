@@ -1,0 +1,2 @@
+Expression: ( 43 + + 2 ) * 19 20
+Infix: Missing Operand

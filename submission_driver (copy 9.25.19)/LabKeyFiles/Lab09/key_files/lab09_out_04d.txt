@@ -1,0 +1,5 @@
+Battle: Bayleaf magical_leaf Totodile hydro_pump
+  Bayleaf (magical_leaf) vs Totodile (hydro_pump)
+  Bayleaf's magical_leaf is super effective against Totodile
+  Totodile's hydro_pump is ineffective against Bayleaf
+  In the battle between Bayleaf and Totodile, Bayleaf wins!

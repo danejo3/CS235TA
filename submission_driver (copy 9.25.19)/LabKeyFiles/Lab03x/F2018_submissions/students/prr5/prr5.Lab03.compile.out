@@ -1,0 +1,19 @@
+compiling files:
+iterator.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+iterator.cpp:23:21: warning: ISO C++11 requires whitespace after the macro name
+ #define VS_MEM_CHECK;
+                     ^
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+ };
+ ^
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+iterator.cpp:37:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+
+Compilation Succeeded!

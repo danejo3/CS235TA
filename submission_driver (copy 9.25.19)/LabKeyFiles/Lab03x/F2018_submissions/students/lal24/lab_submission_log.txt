@@ -1,0 +1,8 @@
+2018-09-18 11:31:23,Lab01,lal24,0,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-18 11:40:50,Lab01,lal24,0,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-18 12:26:03,Lab01,lal24,0,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-18 13:22:58,Lab01,lal24,0,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-19 09:41:28,Lab01,lal24,0,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-20 13:58:47,Lab01,lal24,10,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-21 17:33:05,Lab01,lal24,10,V,(grades.zip),leeannlav93@gmail.com,""
+2018-09-21 17:45:19,Lab01,lal24,10,V,(grades.zip),leeannlav93@gmail.com,""

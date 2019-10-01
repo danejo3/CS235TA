@@ -1,0 +1,60 @@
+Expression: 3 $ 3
+Infix:
+Expression: -
+Infix:
+Expression: 21 +
+Infix:
+Expression: + 7 1
+Infix:
+Expression: 4 % 2 5 -
+Infix:
+Expression: * 5
+Infix:
+Expression: 12 7 /
+Infix:
+Expression: 3 5 * 2 +
+Infix:
+Expression: 43 + 2 * 19 +
+Infix:
+Expression: 1 * ( 2 + 3 ) / % 4
+Infix:
+Expression: ( 43 + 2 ) * 19
+Infix:
+Expression: ( 43 + 2 ] * 19
+Infix:
+Expression: ( 43 + + 2 ) * 19 20
+Infix:
+Expression: ( 43 + + 2 * 19
+Infix:
+Expression: { { 2 + 4 }
+Infix:
+Expression: 4 * ( 2 + 4 - ( 2 + ) ) - 4 / 5
+Infix:
+Expression: 4 * ( 2 * + 4 - ( 2 + 2 ) ) - 4 / 5
+Infix:
+Expression: ( 3 + 5 - ( 4 + 2 ) }
+Infix:
+Expression: { 2 + [ 3 * 4 ) / 2 }
+Infix:
+Expression: 3 % { 7 - ( 2 / [ 5 - 81 ] } + 1 )
+Infix:
+Expression: { 4
+Infix:
+Expression: 15 }
+Infix:
+Expression: ( 8 }
+Infix:
+Expression: ( 1 * { 5 - { 7 - 3 } }
+Infix:
+Expression: 3 + } { 4
+Infix:
+Expression: 2 # 4 * ( 3 - 7 )
+Infix:
+Expression: 2 ( * 3 - 7 )
+Infix:
+Expression: 15 + ( 9 - 2 - ) 5
+Infix:
+Expression: [ ( 1 - 2 ) / 3 * ( 4 + 5 - 6 / 7 ) ]
+Infix:
+Expression: 15 + ( 9 - 2 - ) 5
+Infix:

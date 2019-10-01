@@ -1,0 +1,18 @@
+INT
+insertHead 1
+insertTail 2
+printList
+insertHead 0
+insertTail 4
+insertHead 0
+insertTail 4
+printList
+STRING
+insertHead dog
+insertTail cat
+insertHead pig
+insertTail horse
+printList
+insertHead cat
+insertTail horse
+printList

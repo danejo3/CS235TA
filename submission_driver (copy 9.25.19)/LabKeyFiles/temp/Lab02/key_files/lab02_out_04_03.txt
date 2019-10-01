@@ -1,0 +1,11 @@
+Course Grades:
+CS101 TTh, Turing Aud., C. Brown, 12345, A
+CS101 TTh, Turing Aud., L. Van Pelt, 67890, B
+
+EE200 TWTh, 25 Ohm Hall, C. Brown, 12345, C
+EE200 TWTh, 25 Ohm Hall, P. Patty, 22222, B+
+EE200 TWTh, 25 Ohm Hall, Snoopy, 33333, B
+
+CS101 TTh, Turing Aud., Snoopy, 33333, A-
+
+PH100 TT, Newton Lab., L. Van Pelt, 67890, C+

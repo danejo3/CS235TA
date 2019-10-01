@@ -1,0 +1,20 @@
+Course Grades:
+CS101 TTh, Study, Charley, 1234, A
+CS101 TTh, Study, Marcie, 3333, B
+CS101 TTh, Study, Patty, 5678, B-
+CS101 TTh, Study, Sally, 4444, B
+CS101 TTh, Study, Woodstock, 0000, A-
+CS101 TTh, Study, Lucy, 1212, A-
+
+EE200 MWF, Hall, Charley, 1234, C
+EE200 MWF, Hall, Marcie, 3333, B
+EE200 MWF, Hall, Pig Pen, 7890, C
+EE200 MWF, Hall, Sally, 4444, C
+EE200 MWF, Hall, Snoopy, 9876, B+
+EE200 MWF, Hall, Woodstock, 0000, B
+
+PH100 TTh, Lab, Pig Pen, 7890, C+
+PH100 TTh, Lab, Snoopy, 9876, C+
+PH100 TTh, Lab, Patty, 5678, C+
+PH100 TTh, Lab, Rerun, 4321, C+
+PH100 TTh, Lab, Woodstock, 0000, A

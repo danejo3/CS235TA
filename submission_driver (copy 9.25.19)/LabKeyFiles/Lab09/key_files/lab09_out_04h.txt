@@ -1,0 +1,5 @@
+Battle: Misdreavus night_shade Scizor poison_fang
+  Misdreavus (night_shade) vs Scizor (poison_fang)
+  Misdreavus's night_shade is effective against Scizor
+  Scizor's poison_fang is ineffective against Misdreavus
+  In the battle between Misdreavus and Scizor, Misdreavus wins!

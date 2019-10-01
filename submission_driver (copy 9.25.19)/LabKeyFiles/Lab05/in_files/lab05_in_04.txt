@@ -1,0 +1,60 @@
+Expression: 43 + 2 * 19
+Infix:
+Prefix:
+Expression: 2 + 3 + 5
+Infix:
+Prefix:
+Expression: 5 / 6 * 29
+Infix:
+Prefix:
+Expression: 3 + 5 * 6 - 8
+Infix:
+Prefix:
+Expression: 34 + 4 * 21 / 7 + 14
+Infix:
+Prefix:
+Expression: 42 + 42 * 42 - 42 / 42 % 42 + 42 * 42 - 42 / 42 % 42 + 42 + 42 * 42 - 42 / 42 % 42 + 42 * 42 - 42 / 42 % 42 + 42 + 42 * 42 - 42 / 42 % 42 + 42 * 42 + 42 + 42 + 42 / 42 % 42 + 42 * 42 + 42 + 42 / 42 % 42 % 42
+Infix:
+Prefix:
+Expression: 48 + 36 % 7 - 2
+Infix:
+Prefix:
+Expression: 5
+Infix:
+Prefix:
+Expression: [ 3 + 3 ]
+Infix:
+Prefix:
+Expression: ( 5 )
+Infix:
+Prefix:
+Expression: 40 * { 2 + 4 - ( 2 + 2 ) } - 4 / 5 / 6
+Infix:
+Prefix:
+Expression: [ 3 + 2 + 13 ] / 4
+Infix:
+Prefix:
+Expression: [ ( 3 + 4 ) * { 3 - 2 } - ( 2 / 2 ) ] + 24 / 3
+Infix:
+Prefix:
+Expression: ( 0 + ( 1 - ( 2 + ( 3 - ( 4 + ( 5 - ( 6 + ( 7 - ( 8 + 9 ) ) ) ) ) ) ) ) )
+Infix:
+Prefix:
+Expression: ( ( ( ( ( ( ( ( ( ( ( 42 + ( 42 * 42 ) ) - ( 42 / 42 ) ) % 42 ) + ( ( ( 42 * 42 ) - 42 ) / 42 ) ) % 42 ) + ( ( ( 42 + ( 42 * 42 ) ) - ( 42 / 42 ) ) % 42 ) ) + ( ( ( 42 * 42 ) - 42 ) / 42 ) ) % 42 ) + ( ( 42 + ( 42 * 42 ) ) - ( 42 / 42 ) ) ) % 42 ) + ( ( ( ( ( ( ( 42 * 42 ) + 42 ) + 42 ) + 42 ) / 42 ) % 42 ) + ( ( ( ( ( ( 42 * 42 ) + 42 ) + 42 ) / 42 ) % 42 ) % 42 ) ) )
+Infix:
+Prefix:
+Expression: ( ( 3 % 8 ) % ( 3 % 8 ) ) % ( 3 % 8 ) % ( 3 % 8 )
+Infix:
+Prefix:
+Expression: 5 - { 5 - [ 5 - ( 5 - { 5 - [ 5 - 5 ] } ) ] }
+Infix:
+Prefix:
+Expression: 5 - 5 - 5 - 5 - 5 - 5 - 5
+Infix:
+Prefix:
+Expression: ( 40 * ( [ 2 + 4 ] - { 1 + 1 } ) ) - ( ( 4 / 5 ) / 6 )
+Infix:
+Prefix:
+Expression: [ ( 1 - 2 ) / 3 * ( 4 + 5 - 6 / 7 ) ]
+Infix:
+Prefix:

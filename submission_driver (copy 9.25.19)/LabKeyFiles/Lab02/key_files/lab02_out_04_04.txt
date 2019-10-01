@@ -1,0 +1,16 @@
+Student Schedules:
+Charlie Brown, 12345, Manager, 555-1234
+  CS101 TTh 1PM, Eureka Lab
+  EE200 TWTh 10AM, Eureka Hall
+
+Lucy, 67890, Right Field, 555-5678
+  CS101 TTh 1PM, Eureka Lab
+  PH100 TTh 11AM, Eureka Study
+
+Patty, 22222, Left Field, 555-9999
+  EE200 TWTh 10AM, Eureka Hall
+  PH100 TTh 11AM, Eureka Study
+
+Snoopy, 33333, Shortstop, 555-1234
+  CS101 TTh 1PM, Eureka Lab
+  EE200 TWTh 10AM, Eureka Hall

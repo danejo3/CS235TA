@@ -1,0 +1,36 @@
+INT
+insertHead 1
+insertHead 2
+insertHead 3
+at 0
+at 1
+at 2
+at 3
+STRING
+at 0
+at 1
+insertTail lazy
+insertHead lazy
+printList
+insertAfter dog. lazy
+insertTail dog.
+insertHead fox
+insertHead brown
+insertHead quick
+insertHead The
+insertAfter fox over
+insertAfter fox jumped
+insertAfter over the
+size
+printList
+at 0
+at 1
+at 2
+at 3
+at 4
+at 5
+at 6
+at 7
+at 8
+at 9
+at -1

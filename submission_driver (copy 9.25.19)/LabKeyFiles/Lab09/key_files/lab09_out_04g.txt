@@ -1,0 +1,5 @@
+Battle: Ho-oh inferno Steelix stone_edge
+  Ho-oh (inferno) vs Steelix (stone_edge)
+  Ho-oh's inferno is super effective against Steelix
+  Steelix's stone_edge is super effective against Ho-oh
+  The battle between Ho-oh and Steelix is a tie.

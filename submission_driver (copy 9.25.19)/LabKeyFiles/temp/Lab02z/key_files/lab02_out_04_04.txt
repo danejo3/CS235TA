@@ -1,0 +1,16 @@
+Student Schedules:
+Charley Brown, 12345, 12 Apple St, 555-1234
+  CS101 TTh 1PM, Eureka Lab
+  EE200 TWTh 10AM, Eureka Hall
+
+Lucy Van Pelt, 67890, 34 Pear Ave, 555-5678
+  CS101 TTh 1PM, Eureka Lab
+  PH100 TTh 11AM, Eureka Study
+
+Peppermint Patty, 22222, 56 Grape Blvd, 555-9999
+  EE200 TWTh 10AM, Eureka Hall
+  PH100 TTh 11AM, Eureka Study
+
+Snoopy, 33333, 12 Apple St, 555-1234
+  CS101 TTh 1PM, Eureka Lab
+  EE200 TWTh 10AM, Eureka Hall

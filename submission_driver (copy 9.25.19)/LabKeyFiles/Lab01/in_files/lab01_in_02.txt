@@ -1,0 +1,16 @@
+15 6
+Ashton Kutcher  82 99 65 84 89 93
+Brad Pitt  73 77 79 70 100 96
+Reese Witherspoon  92 76 100 100 100 92
+Dakota Fanning  100 100 69 67 68 100
+Will Ferrell  97 86 81 83 100 100
+Paul McCartney  91 86 100 84 77 82
+Neil Simon  100 100 100 68 76 87
+Bruce Willis  98 88 79 100 76 68
+Elle Fanning  83 100 100 77 72 100
+Robyn Fentry  74 88 100 94 93 81
+Warren Beatty  100 100 100 100 71 100
+Garth Brooks  100 79 100 100 70 100
+Sean Connery  94 85 65 71 66 100
+Calvin Coolidge  100 94 88 99 69 71
+Rudyard Kipling  100 81 91 96 73 100

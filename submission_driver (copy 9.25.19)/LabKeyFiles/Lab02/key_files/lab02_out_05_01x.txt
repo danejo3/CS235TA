@@ -1,0 +1,51 @@
+Input Strings:
+snap(3333,Schroeder,Catcher,555-3333). 
+snap(1234,Charlie,Pitcher,555-1234). 
+snap(4321,Shermy,1st Base,555-4321). 
+snap(1111,Linus,2nd Base,555-1111). 
+snap(7890,Pig Pen,3rd Base,555-7890).
+snap(9876,Snoopy,Shortstop,555-9876).
+snap(5678,Patty,Left Field,555-5678).
+snap(1212,Lucy,Center Field,555-1212). 
+snap(4444,Frieda,Right Field,555-4444).
+snap(0000,Woodstock,Treehouse,555-0000).
+**Error: sanp(0000,Woodstock,Treehouse,555-0000).
+csg(CS101,1234,A).
+csg(CS101,3333,B).
+csg(CS101,5678,B-).
+csg(CS101,4444,B).
+csg(CS101,0000,A-).
+csg(CS101,1212,A-).
+csg(CS202,0000,A).
+csg(EE200,1234,C).
+csg(EE200,3333,B).
+csg(EE200,3333,B).
+csg(EE200,7890,C).
+csg(EE200,4444,C).
+csg(EE200,9876,B+).
+csg(EE200,0000,B).
+csg(PH100,7890,C+).
+csg(PH100,9876,C+).
+csg(PH100,5678,C+).
+csg(PH100,4321,C+). 
+csg(PH100,4321,C+). 
+**Error: cgs(PH100,0000,A).
+cdh(CS100,F,12PM).
+cdh(CS101,T,9AM).
+cdh(CS101,Th,9AM).
+cdh(CS202,M,2PM).
+cdh(CS202,T,2PM).
+cdh(CS202,W,2PM).
+cdh(CS202,Th,2PM).
+cdh(CS202,F,2PM).
+cdh(EE200,M,10AM).
+cdh(EE200,W,10AM).
+cdh(EE200,F,10AM).
+cdh(PH100,T,11AM).
+**Error: chd(PH100,Th,11AM).
+cr(CS100,Eureka Office).
+cr(CS101,Eureka Lab).
+cr(CS202,Eureka Kitchen).
+cr(EE200,Eureka Hall).
+cr(PH100,Eureka Study).
+**Error: crr(PH100,Eureka Study).

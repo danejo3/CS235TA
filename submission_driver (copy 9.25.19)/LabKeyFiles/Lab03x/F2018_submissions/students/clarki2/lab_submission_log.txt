@@ -1,0 +1,8 @@
+2018-09-20 15:31:41,Lab01,clarki2,6,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 08:39:33,Lab01,clarki2,7,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 09:00:18,Lab01,clarki2,7,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 09:19:10,Lab01,clarki2,7,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 09:23:27,Lab01,clarki2,8,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 09:25:36,Lab01,clarki2,8,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 09:33:06,Lab01,clarki2,8,V,(grades.zip),iclark1B@gmail.com,""
+2018-09-21 09:47:39,Lab01,clarki2,8,V,(grades.zip),iclark1B@gmail.com,""

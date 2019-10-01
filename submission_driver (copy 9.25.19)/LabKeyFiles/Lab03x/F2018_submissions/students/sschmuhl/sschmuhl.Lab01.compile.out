@@ -1,0 +1,26 @@
+compiling files:
+main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+main.cpp: In function ‘int main(int, char**)’:
+main.cpp:173:10: warning: operation on ‘numA’ may be undefined [-Wsequence-point]
+     numA = ++numA;
+     ~~~~~^~~~~~~~
+main.cpp:177:10: warning: operation on ‘numB’ may be undefined [-Wsequence-point]
+     numB = ++numB;
+     ~~~~~^~~~~~~~
+main.cpp:181:10: warning: operation on ‘numC’ may be undefined [-Wsequence-point]
+     numC = ++numC;
+     ~~~~~^~~~~~~~
+main.cpp:185:10: warning: operation on ‘numD’ may be undefined [-Wsequence-point]
+     numD = ++numD;
+     ~~~~~^~~~~~~~
+main.cpp:189:10: warning: operation on ‘numE’ may be undefined [-Wsequence-point]
+     numE = ++numE;
+     ~~~~~^~~~~~~~
+main.cpp: In function ‘std::__cxx11::string calculateGrade(int, double)’:
+main.cpp:42:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+
+Compilation Succeeded!

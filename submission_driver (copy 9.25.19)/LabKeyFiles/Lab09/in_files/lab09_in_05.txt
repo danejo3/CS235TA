@@ -1,0 +1,137 @@
+Pokemon: bulbasaur grass
+Pokemon: ivysaur grass
+Pokemon: venusaur grass
+Pokemon: charmeleon fire
+Pokemon: charizard fire
+Pokemon: squirtle water
+Pokemon: wartortle water
+Pokemon: blastoise water
+Pokemon: caterpie bug
+Pokemon: metapod bug
+Pokemon: butterfree bug
+Pokemon: weedle bug
+Pokemon: kakuna bug
+Pokemon: beedrill bug
+Pokemon: pidgey normal
+Pokemon: pidgeotto normal
+Pokemon: pidgeot normal
+Pokemon: rattata normal
+Pokemon: raticate normal
+Pokemon: spearow normal
+Pokemon: fearow normal
+Pokemon: ekans poison
+Pokemon: arbok poison
+Pokemon: pikachu electric
+Pokemon: raichu electric
+Pokemon: sandshrew ground
+Pokemon: sandslash ground
+
+Move: absorb grass
+Move: accelerock rock
+Move: acid poison
+Move: acid_armor poison
+Move: acid_downpour poison
+Move: acid_spray poison
+Move: acrobatics flying
+Move: acupressure normal
+Move: aerial_ace flying
+Move: aeroblast flying
+Move: after_you normal
+Move: agility psychic
+Move: air_cutter flying
+Move: air_slash flying
+Move: ally_switch psychic
+Move: amnesia psychic
+Move: anchor_shot steel
+Move: instruct psychic
+Move: ion_deluge electric
+Move: iron_defense steel
+Move: iron_head steel
+Move: iron_tail steel
+Move: judgment normal
+Move: mega_drain grass
+Move: mega_kick normal
+Move: mega_punch normal
+Move: megahorn bug
+Move: memento dark
+
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+Effective: water fire ground rock
+Effective: psychic fighting poison
+Effective: steel rock
+Effective: bug grass psychic dark
+Effective: rock fire flying bug
+Effective: flying grass fighting bug
+Effective: dark psychic ghost
+Effective: fighting rock dark steel
+Effective: ghost psychic ghost
+Effective: poison grass
+Effective: grass water ground rock
+Effective: fire grass ice bug steel
+Effective: water fire ground rock
+Effective: psychic fighting poison
+Effective: steel rock
+Effective: bug grass psychic dark
+Effective: rock fire flying bug
+Effective: flying grass fighting bug
+Effective: dark psychic ghost
+Effective: fighting rock dark steel
+Effective: ghost psychic ghost
+Effective: poison grass
+Effective: aeroblast flying
+Effective: after_you normal
+Effective: agility psychic
+Effective: air_cutter flying
+Effective: air_slash flying
+Effective: pummeling fighting
+Effective: ally_switch psychic
+Effective: amnesia psychic
+Effective: anchor_shot steel
+Effective: iron_tail steel
+Effective: judgment normal
+Effective: mega_drain grass
+Effective: mega_kick normal
+Effective: mega_punch normal
+Effective: megahorn bug
+Effective: memento dark
+
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: fire rock fire water
+Ineffective: water water grass
+Ineffective: psychic steel psychic dark
+Ineffective: steel steel fire water
+Ineffective: bug fighting flying poison ghost steel fire
+Ineffective: rock fighting steel
+Ineffective: flying rock steel
+Ineffective: dark fighting dark
+Ineffective: fighting flying poison bug psychic
+Ineffective: ghost dark
+Ineffective: poison poison rock ghost steel
+Ineffective: grass flying poison bug steel fire grass
+Ineffective: flame rock fire water
+Ineffective: gasoline water grass
+Ineffective: stick steel psychic dark
+Ineffective: iron steel fire water
+Ineffective: bug fighting flying poison ghost steel fire
+Ineffective: rock fighting steel
+Ineffective: flying rock steel
+Ineffective: dark fighting dark
+Ineffective: fighting: flying poison bug psychic
+Ineffective: ghost dark
+Ineffective: poison poison rock ghost steel
+Ineffective: absorb grass
+Ineffective: accelerock rock
+Ineffective: acid poison
+Ineffective: acid_armor poison
+Ineffective: acid_downpour poison
+Ineffective: acid_spray poison
+Ineffective: poison_fang poison
+Ineffective: poison_gas poison
+Ineffective: pollen_puff bug
+Ineffective: pound normal
+
+Pokemon
+Moves
+Effectivities
+Ineffectivities

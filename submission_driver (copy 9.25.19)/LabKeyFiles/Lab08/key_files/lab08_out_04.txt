@@ -1,0 +1,35 @@
+INT true
+add 1 true
+add 2 true
+add 3 true
+find 0 not found
+find 1 found
+find 2 found
+find 3 found
+STRING true
+find 0 not found
+find 1 not found
+add lazy true
+add lazy false
+print:
+  1: lazy
+add dog. true
+add fox true
+add brown true
+add quick true
+add The true
+size 6
+print:
+  1: lazy
+  2: dog. quick
+  3: brown fox
+  4: The _
+find lazy found
+find fox found
+find dog not found
+size 6
+print:
+  1: lazy
+  2: dog. quick
+  3: brown fox
+  4: The _

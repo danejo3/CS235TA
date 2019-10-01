@@ -1,0 +1,22 @@
+compiling files:
+main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+main.cpp: In function ‘std::__cxx11::string calculateGrade(int, double)’:
+main.cpp:12:12: warning: unused variable ‘C_MARGIN’ [-Wunused-variable]
+  const int C_MARGIN = 5;
+            ^~~~~~~~
+main.cpp:13:12: warning: unused variable ‘B_MARGIN’ [-Wunused-variable]
+  const int B_MARGIN = 15;
+            ^~~~~~~~
+main.cpp:14:12: warning: unused variable ‘D_MARGIN’ [-Wunused-variable]
+  const int D_MARGIN = -15;
+            ^~~~~~~~
+main.cpp:15:12: warning: unused variable ‘A_MARGIN’ [-Wunused-variable]
+  const int A_MARGIN = 15;
+            ^~~~~~~~
+main.cpp:16:12: warning: unused variable ‘E_MARGIN’ [-Wunused-variable]
+  const int E_MARGIN = -15;
+            ^~~~~~~~
+
+Compilation Succeeded!

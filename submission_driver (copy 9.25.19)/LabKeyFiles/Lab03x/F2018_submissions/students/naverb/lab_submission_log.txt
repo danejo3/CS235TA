@@ -1,0 +1,2 @@
+2018-09-19 18:54:47,Lab01,naverb,5,X,(grades.zip),brevanellefsen@gmail.com,""
+2018-09-19 19:22:37,Lab01,naverb,6,V,(grades.zip),brevanellefsen@gmail.com,""

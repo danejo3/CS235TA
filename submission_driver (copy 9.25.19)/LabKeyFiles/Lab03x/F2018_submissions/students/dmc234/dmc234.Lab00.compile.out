@@ -1,0 +1,10 @@
+compiling files:
+main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+main.cpp: In function ‘int main(int, char**)’:
+main.cpp:29:10: warning: unused variable ‘leak’ [-Wunused-variable]
+     int* leak = new int;
+          ^~~~
+
+Compilation Succeeded!

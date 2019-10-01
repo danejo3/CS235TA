@@ -1,0 +1,10 @@
+compiling files:
+main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+main.cpp: In function ‘int main(int, char**)’:
+main.cpp:67:9: warning: unused variable ‘p’ [-Wunused-variable]
+  size_t p = 0;
+         ^
+
+Compilation Succeeded!

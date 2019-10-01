@@ -1,0 +1,11 @@
+Insert The quick brown fox jumped over the lazy dog.
+Reverse OK
+PrintList The quick brown fox jumped over the lazy dog.
+Clear OK
+Insert In the loveliest town of all, where the houses were white and high and the elms trees were green and higher than the houses, where the front yards were wide and pleasant and the back yards were bushy and worth finding out about, where the streets sloped down to the stream and the stream flowed quietly under the bridge, where the lawns ended in orchards and the orchards ended in fields and the fields ended in pastures and the pastures climbed the hill and disappeared over the top toward the wonderful wide sky, in this loveliest of all towns Stuart stopped to get a drink of sarsaparilla.
+Size 107
+PrintList sarsaparilla. of drink a get to stopped Stuart towns all of loveliest this in sky, wide wonderful the toward top the over disappeared and hill the climbed pastures the and pastures in ended fields the and fields in ended orchards the and orchards in ended lawns the where bridge, the under quietly flowed stream the and stream the to down sloped streets the where about, out finding worth and bushy were yards back the and pleasant and wide were yards front the where houses, the than higher and green were trees elms the and high and white were houses the where all, of town loveliest the In
+Empty false
+Reverse OK
+PrintList In the loveliest town of all, where the houses were white and high and the elms trees were green and higher than the houses, where the front yards were wide and pleasant and the back yards were bushy and worth finding out about, where the streets sloped down to the stream and the stream flowed quietly under the bridge, where the lawns ended in orchards and the orchards ended in fields and the fields ended in pastures and the pastures climbed the hill and disappeared over the top toward the wonderful wide sky, in this loveliest of all towns Stuart stopped to get a drink of sarsaparilla.
+Empty false

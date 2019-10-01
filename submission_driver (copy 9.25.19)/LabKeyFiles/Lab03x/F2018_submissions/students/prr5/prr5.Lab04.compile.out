@@ -1,0 +1,20 @@
+compiling files:
+linked_list.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+ };
+ ^
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+linked_list.cpp:45:1: warning: ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+
+Compilation Succeeded!

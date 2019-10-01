@@ -1,0 +1,17 @@
+Student Final Grades:
+      Ashton Kutcher  85.3(C)
+           Brad Pitt  82.5(D)
+   Reese Witherspoon  93.3(B)
+      Dakota Fanning  84.0(C)
+        Will Ferrell  91.2(C)
+      Paul McCartney  86.7(C)
+          Neil Simon  88.5(C)
+        Bruce Willis  84.8(C)
+        Elle Fanning  88.7(C)
+        Robyn Fentry  88.3(C)
+       Warren Beatty  95.2(B)
+        Garth Brooks  91.5(C)
+        Sean Connery  80.2(D)
+     Calvin Coolidge  86.8(C)
+     Rudyard Kipling  90.2(C)
+Class Average Score = 87.8

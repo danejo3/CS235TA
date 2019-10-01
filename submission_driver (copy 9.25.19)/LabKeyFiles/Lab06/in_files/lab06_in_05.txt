@@ -1,0 +1,26 @@
+Add:station 1
+Add:queue
+Remove:queue
+Add:queue
+Remove:queue
+Add:queue
+Add:station 2
+Add:queue
+Add:station 3
+Add:stack
+Add:station 4
+Add:stack
+Add:station 5
+Remove:station
+Add:station 6
+Remove:station
+Add:station 7
+Find:1
+Find:2
+Find:3
+Find:4
+Find:5
+Find:6
+Find:7
+Find:8
+Train:

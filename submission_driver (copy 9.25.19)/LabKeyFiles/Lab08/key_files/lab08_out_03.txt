@@ -1,0 +1,95 @@
+INT true
+add 1 true
+add 2 true
+add 3 true
+print:
+  1: 1
+  2: _ 2
+  3: _ 3
+remove 2 true
+print:
+  1: 1
+  2: _ 3
+clear true
+size 0
+print: empty
+STRING true
+add Combing true
+remove Combing true
+add Combing true
+add Coming true
+add front true
+size 3
+print:
+  1: Combing
+  2: _ Coming
+  3: _ front
+remove front true
+size 2
+print:
+  1: Combing
+  2: _ Coming
+add back true
+add to true
+add where true
+remove where true
+size 4
+print:
+  1: Combing
+  2: _ Coming
+  3: _ back
+  4: _ to
+add where true
+size 5
+print:
+  1: Combing
+  2: _ Coming
+  3: _ back
+  4: _ to
+  5: _ where
+add you true
+add started true
+add is true
+add not true
+add the true
+add same true
+add as true
+add never true
+add leavening. true
+add leaving. true
+add -Terry true
+add Pratchett true
+size 17
+print:
+  1: Combing
+  2: -Terry Coming
+  3: _ back
+  4: as to
+  5: Pratchett _ started where
+  6: is the _ you
+  7: _ not
+  8: never same
+  9: leavening. _
+  10: _ leaving.
+remove Combing true
+remove leavening. true
+remove computerviruses false
+size 15
+print:
+  1: -Terry
+  2: _ Coming
+  3: _ back
+  4: as to
+  5: Pratchett _ started where
+  6: is the _ you
+  7: _ not
+  8: never same
+  9: leaving. _
+clear true
+size 0
+print: empty
+clear true
+remove "string" false
+remove -Terry false
+size 0
+print: empty

@@ -1,0 +1,3 @@
+2018-09-19 09:15:46,Lab01,bmwalla1,4,X,(grades.zip),brandonmwallace97@gmail.com,""
+2018-09-19 09:20:59,Lab01,bmwalla1,4,X,(grades.zip),brandonmwallace97@gmail.com,""
+2018-09-20 09:17:27,Lab01,bmwalla1,4,X,(grades.zip),brandonmwallace97@gmail.com,""

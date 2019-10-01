@@ -1,0 +1,14 @@
+QuickSort 1
+AddToArray 9 8 7 6 5 4 3 2 1 0
+PrintArray
+Sort 0 5
+PrintArray
+Sort 6 10
+PrintArray
+Clear
+AddToArray 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1
+PrintArray
+Sort 12 21
+PrintArray
+Sort 0 30
+PrintArray

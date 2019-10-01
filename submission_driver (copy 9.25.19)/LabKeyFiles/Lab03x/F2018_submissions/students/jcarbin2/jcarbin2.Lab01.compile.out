@@ -1,0 +1,40 @@
+compiling files:
+Source.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+Source.cpp: In function ‘int main(int, char**)’:
+Source.cpp:71:9: error: redeclaration of ‘std::__cxx11::string line’
+  string line = line.substr(p);
+         ^~~~
+Source.cpp:66:9: note: ‘std::__cxx11::string line’ previously declared here
+  string line;
+         ^~~~
+Source.cpp:74:9: error: ‘scores’ was not declared in this scope
+  iss >> scores;
+         ^~~~~~
+Source.cpp:74:9: note: suggested alternative: ‘cols’
+  iss >> scores;
+         ^~~~~~
+         cols
+Source.cpp:76:14: error: ‘setw’ is not a member of ‘std’
+  out << std::setw(20) << name << " ";
+              ^~~~
+Source.cpp:76:26: error: ‘name’ was not declared in this scope
+  out << std::setw(20) << name << " ";
+                          ^~~~
+Source.cpp:76:26: note: suggested alternative: ‘rename’
+  out << std::setw(20) << name << " ";
+                          ^~~~
+                          rename
+Source.cpp:77:28: error: ‘setprecision’ is not a member of ‘std’
+  out << std::fixed << std::setprecision(0) << std::setw(6) << scores;
+                            ^~~~~~~~~~~~
+Source.cpp:77:28: note: suggested alternative: ‘streamsize’
+  out << std::fixed << std::setprecision(0) << std::setw(6) << scores;
+                            ^~~~~~~~~~~~
+                            streamsize
+Source.cpp:77:52: error: ‘setw’ is not a member of ‘std’
+  out << std::fixed << std::setprecision(0) << std::setw(6) << scores;
+                                                    ^~~~
+
+Compilation Failed!

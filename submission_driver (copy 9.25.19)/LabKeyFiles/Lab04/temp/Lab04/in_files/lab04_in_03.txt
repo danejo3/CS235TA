@@ -1,0 +1,20 @@
+Erase Hello
+Insert Hello
+Erase Hello
+Iterate
+Insert time! the is Now
+PrintList
+Erase time!
+PrintList
+Erase Now
+Iterate
+PrintList
+Clear
+Insert The quick brown fox jumped over the lazy dog.
+Reverse
+PrintList
+Iterate
+InsertAfter foxy fox
+PrintList
+Erase fox
+Iterate

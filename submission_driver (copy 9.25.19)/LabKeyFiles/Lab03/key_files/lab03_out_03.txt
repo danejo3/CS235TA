@@ -1,0 +1,15 @@
+Insert The quick brown fox jumped over the lazy dog.
+PrintList dog. lazy the over jumped fox brown quick The
+First dog.
+Delete OK
+PrintList lazy the over jumped fox brown quick The
+Remove The
+Remove dog.
+Remove lazy
+PrintList the over jumped fox brown quick
+Clear OK
+Insert dog dog dog dog
+PrintList dog dog dog dog
+Remove dog
+PrintList Empty!
+Empty true

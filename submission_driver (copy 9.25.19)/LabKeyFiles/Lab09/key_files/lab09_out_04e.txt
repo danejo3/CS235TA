@@ -1,0 +1,5 @@
+Battle: Umbreon dark_pulse Crobat ariel_ace
+  Umbreon (dark_pulse) vs Crobat (ariel_ace)
+  Umbreon's dark_pulse is effective against Crobat
+  Crobat's ariel_ace is effective against Umbreon
+  The battle between Umbreon and Crobat is a tie.

@@ -1,0 +1,27 @@
+INT
+add 10
+add 9
+add 8
+add 7
+add 6
+add 5
+add 4
+add 3
+add 2
+add 1
+add 0
+size
+print
+clear
+size
+print
+STRING
+add not
+add with
+add dreams.
+add Die
+size
+print
+clear
+size
+print

@@ -1,0 +1,2 @@
+Expression: 2 * 4 + ( 6 / 4 ) - 8
+Prefix:

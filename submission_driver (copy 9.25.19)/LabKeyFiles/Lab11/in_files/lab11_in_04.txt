@@ -1,0 +1,88 @@
+INT
+add 1
+add 2
+add 3
+print
+add 3
+add 2
+add 1
+print
+remove 5
+remove 4
+print
+remove 3
+print
+remove 2
+print
+remove 3
+remove 2
+print
+remove 1
+print
+add 8
+add 12
+add 14
+add 15
+add 13
+add 10
+add 11
+add 9
+add 4
+add 6
+add 5
+add 7
+add 2
+add 3
+add 1
+print
+clear
+add 1
+add 2
+add 3
+add 4
+add 5
+add 6
+add 7
+add 8
+add 9
+add 10
+add 11
+add 12
+add 13
+add 14
+add 15
+print
+clear
+add 15
+add 14
+add 7
+add 5
+add 9
+add 3
+add 6
+add 8
+add 12
+add 1
+add 11
+add 13
+add 2
+add 10
+print
+remove 3
+print
+remove 5
+print
+remove 2
+print
+remove 8
+print
+remove 9
+print
+remove 7
+print
+remove 1
+print
+remove 6
+print
+remove 14
+print

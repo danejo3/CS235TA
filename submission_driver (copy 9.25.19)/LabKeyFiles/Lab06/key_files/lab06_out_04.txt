@@ -1,0 +1,80 @@
+Add:station 1 OK
+Add:queue OK
+Add:station 2 OK
+Add:queue OK
+Add:station 3 OK
+Add:queue OK
+Add:station 4 OK
+Add:queue OK
+Add:station 5 OK
+Add:queue OK
+Add:station 6 OK
+Add:queue OK
+Add:station 7 OK
+Add:queue OK
+Add:station 8 OK
+Add:queue OK
+Add:station 9 OK
+Add:queue OK
+Size:queue 9
+Add:station 10 OK
+Add:stack OK
+Add:station 11 OK
+Add:stack OK
+Add:station 12 OK
+Add:stack OK
+Add:station 13 OK
+Add:stack OK
+Add:station 14 OK
+Add:stack OK
+Add:station 15 OK
+Add:stack OK
+Add:station 16 OK
+Add:stack OK
+Add:station 17 OK
+Add:stack OK
+Add:station 18 OK
+Add:stack OK
+Size:stack 9
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue OK
+Remove:station OK
+Remove:queue Queue empty!
+Train:  1 2 3 4 5 6 7 8 9
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack OK
+Remove:station OK
+Remove:stack Stack empty!
+Size:stack 0
+Size:queue 0
+Train:  1 2 3 4 5 6 7 8 9 18 17 16 15 14 13 12 11 10

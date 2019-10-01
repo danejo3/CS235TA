@@ -1,0 +1,4 @@
+2018-09-21 17:19:45,Lab01,eq224,4,X,(grades.zip),emthequan@gmail.com,""
+2018-09-21 17:22:36,Lab01,eq224,4,X,(grades.zip),emthequan@gmail.com,""
+2018-09-21 17:33:32,Lab01,eq224,4,X,(grades.zip),emthequan@gmail.com,""
+2018-09-21 18:23:03,Lab01,eq224,4,X,(grades.zip),emthequan@gmail.com,""

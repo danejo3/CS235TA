@@ -1,0 +1,243 @@
+INT
+add -50
+add -49
+add -48
+add -47
+add -46
+add -45
+print
+add -44
+add -43
+add -42
+add -41
+add -40
+print
+add -39
+add -38
+add -37
+add -36
+add -35
+print
+add -34
+add -33
+add -32
+add -31
+add -30
+print
+add -29
+add -28
+add -27
+add -26
+add -25
+print
+add -24
+add -23
+add -22
+add -21
+add -20
+print
+add -19
+add -18
+add -17
+add -16
+add -15
+print
+add -14
+add -13
+add -12
+add -11
+add -10
+print
+add -9
+add -8
+add -7
+add -6
+add -5
+print
+add -4
+add -3
+add -2
+add -1
+add -0
+print
+add 1
+add 2
+add 3
+add 4
+add 5
+print
+add 6
+add 7
+add 8
+add 9
+add 10
+print
+add 11
+add 12
+add 13
+add 14
+add 15
+print
+add 16
+add 17
+add 18
+add 19
+add 20
+print
+add 21
+add 22
+add 23
+add 24
+add 25
+print
+add 26
+add 27
+add 28
+add 29
+add 30
+print
+add 31
+add 32
+add 33
+add 34
+add 35
+print
+add 36
+add 37
+add 38
+add 39
+add 40
+print
+add 41
+add 42
+add 43
+add 44
+add 45
+print
+add 46
+add 47
+add 48
+add 49
+add 50
+print
+remove -50
+remove -49
+remove -48
+remove -47
+remove -46
+remove -45
+print
+remove 44
+remove -43
+remove -42
+remove -41
+remove -40
+print
+remove -39
+remove -38
+remove -37
+remove -36
+remove -35
+print
+remove -34
+remove -33
+remove -32
+remove -31
+remove -30
+print
+remove -29
+remove -28
+remove -27
+remove -26
+remove -25
+print
+remove -24
+remove -23
+remove -22
+remove -21
+remove -20
+print
+remove -19
+remove -18
+remove -17
+remove -16
+remove -15
+print
+remove -14
+remove -13
+remove -12
+remove -11
+remove -10
+print
+remove -9
+remove -8
+remove -7
+remove -6
+remove -5
+print
+remove -4
+remove -3
+remove -2
+remove -1
+remove -0
+print
+remove 1
+remove 2
+remove 3
+remove 4
+remove 5
+print
+remove 6
+remove 7
+remove 8
+remove 9
+remove 10
+print
+remove 11
+remove 12
+remove 13
+remove 14
+remove 15
+print
+remove 16
+remove 17
+remove 18
+remove 19
+remove 20
+print
+remove 21
+remove 22
+remove 23
+remove 24
+remove 25
+print
+remove 26
+remove 27
+remove 28
+remove 29
+remove 30
+print
+remove 31
+remove 32
+remove 33
+remove 34
+remove 35
+print
+remove 36
+remove 37
+remove 38
+remove 39
+remove 40
+print
+remove 41
+remove 42
+remove 43
+remove 44
+remove 45
+print
+remove 46
+remove 47
+remove 48
+remove 49
+remove 50
+print

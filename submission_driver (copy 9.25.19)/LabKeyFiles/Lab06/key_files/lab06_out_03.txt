@@ -1,0 +1,23 @@
+Add:station 2 OK
+Add:queue OK
+Add:station 1 OK
+Add:queue OK
+Top:queue 2
+Remove:queue OK
+Remove:station OK
+Train:  2
+Remove:queue OK
+Remove:station OK
+Train:  2 1
+Add:station 4 OK
+Add:queue OK
+Add:station 3 OK
+Add:queue OK
+Top:queue 4
+Remove:queue OK
+Remove:station OK
+Train:  2 1 4
+Remove:queue OK
+Remove:station OK
+Add:queue Turntable empty!
+Train:  2 1 4 3

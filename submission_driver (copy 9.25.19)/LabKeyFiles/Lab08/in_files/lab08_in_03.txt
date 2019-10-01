@@ -1,0 +1,57 @@
+INT
+add 1
+add 2
+add 3
+print
+remove 2
+print
+clear
+size
+print
+STRING
+add Combing
+remove Combing
+add Combing
+add Coming
+add front
+size
+print
+remove front
+size
+print
+add back
+add to
+add where
+remove where
+size
+print
+add where
+size
+print
+add you
+add started
+add is
+add not
+add the
+add same
+add as
+add never
+add leavening.
+add leaving.
+add -Terry
+add Pratchett
+size
+print
+remove Combing
+remove leavening.
+remove computerviruses
+size
+print
+clear
+size
+print
+clear
+remove "string"
+remove -Terry
+size
+print

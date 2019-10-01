@@ -1,0 +1,37 @@
+Student Schedules:
+Charley, 1234, Apple St, 555-1234
+  CS101 TTh 11AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+
+Linus, 1111, Piano St, 555-1111
+
+Lucy, 1212, Home Ln, 555-1212
+  CS101 TTh 11AM, Eureka Lab
+
+Marcie, 3333, Banana St, 555-3333
+  CS101 TTh 11AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+
+Patty, 5678, Grape Blvd, 555-5678
+  CS101 TTh 11AM, Eureka Lab
+  PH100 TTh 11AM, Eureka Study
+
+Pig Pen, 7890, Pear Ave, 555-7890
+  EE200 MWF 10AM, Eureka Hall
+  PH100 TTh 11AM, Eureka Study
+
+Rerun, 4321, Peach St, 555-4321
+  PH100 TTh 11AM, Eureka Study
+
+Sally, 4444, Circle Dr, 555-4444
+  CS101 TTh 11AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+
+Snoopy, 9876, Doghouse, 555-9876
+  EE200 MWF 10AM, Eureka Hall
+  PH100 TTh 11AM, Eureka Study
+
+Woodstock, 0000, Treehouse, 555-0000
+  CS101 TTh 11AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+  PH100 TTh 11AM, Eureka Study

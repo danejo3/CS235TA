@@ -1,0 +1,11 @@
+Course Grades:
+CS101,Charlie Brown,A
+CS101,Lucy,B
+CS101,Snoopy,A-
+
+EE200,Charlie Brown,C
+EE200,Patty,B+
+EE200,Snoopy,B
+
+PH100,Patty,A
+PH100,Lucy,C+

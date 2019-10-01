@@ -1,0 +1,26 @@
+Course Grades:
+CS100,Alexander,C
+CS100,Henry,C
+CS100,Attila,C
+CS100,Charles,C+
+CS100,Ferdinand,B
+
+CS142,William,B+
+CS142,Henry,C+
+
+ENGL251,Alexander,B
+ENGL251,William,C+
+
+HIST201,William,A-
+HIST201,Alexander,B
+HIST201,Charles,A
+HIST201,Henry,A
+HIST201,Attila,B-
+
+HIST202,Ferdinand,A-
+
+PHIL150,Attila,C+
+PHIL150,Henry,C-
+PHIL150,Ferdinand,B-
+PHIL150,William,A
+PHIL150,Charles,A-

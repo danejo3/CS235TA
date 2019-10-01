@@ -1,0 +1,8 @@
+Insert The very quick brown fox jumped over the very lazy dog.
+PrintList
+Size
+Empty
+Clear
+Empty
+Size
+PrintList

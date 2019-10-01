@@ -1,0 +1,2 @@
+Expression: 2 * 3 + ( 6 / 4 ) - 8
+Value:

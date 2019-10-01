@@ -1,0 +1,5 @@
+Battle: Misdreavus psybeam Hitmontop triple_kick
+  Misdreavus (psybeam) vs Hitmontop (triple_kick)
+  Misdreavus's psybeam is super effective against Hitmontop
+  Hitmontop's triple_kick is effective against Misdreavus
+  In the battle between Misdreavus and Hitmontop, Misdreavus wins!

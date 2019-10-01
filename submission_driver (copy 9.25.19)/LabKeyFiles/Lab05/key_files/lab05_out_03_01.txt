@@ -1,0 +1,4 @@
+Expression: 43 + 2 * 19
+Infix: 43 + 2 * 19 
+Postfix: 43 2 19 * + 
+Value: 81

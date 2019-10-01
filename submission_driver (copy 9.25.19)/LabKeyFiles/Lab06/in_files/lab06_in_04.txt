@@ -1,0 +1,83 @@
+Add:station 1
+Add:queue
+Add:station 2
+Add:queue
+Add:station 3
+Add:queue
+Add:station 4
+Add:queue
+Add:station 5
+Add:queue
+Add:station 6
+Add:queue
+Add:station 7
+Add:queue
+Add:station 8
+Add:queue
+Add:station 9
+Add:queue
+Size:queue
+
+Add:station 10
+Add:stack
+Add:station 11
+Add:stack
+Add:station 12
+Add:stack
+Add:station 13
+Add:stack
+Add:station 14
+Add:stack
+Add:station 15
+Add:stack
+Add:station 16
+Add:stack
+Add:station 17
+Add:stack
+Add:station 18
+Add:stack
+Size:stack
+
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Remove:station
+Remove:queue
+Train:
+
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Remove:station
+Remove:stack
+Size:stack
+Size:queue
+Train:

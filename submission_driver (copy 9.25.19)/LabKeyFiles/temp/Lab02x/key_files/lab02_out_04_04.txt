@@ -1,0 +1,15 @@
+Student Schedules:
+C. Brown, 12345, 12 Apple St., 555-1234
+  CS101 TTh 11AM, Turing Aud.
+  EE200 TWTh 10AM, 25 Ohm Hall
+
+L. Van Pelt, 67890, 34 Pear Ave., 555-5678
+  CS101 TTh 11AM, Turing Aud.
+  PH100 TT 11AM, Newton Lab.
+
+P. Patty, 22222, 56 Grape Blvd., 555-9999
+  EE200 TWTh 10AM, 25 Ohm Hall
+
+Snoopy, 33333, 12 Apple St., 555-1234
+  EE200 TWTh 10AM, 25 Ohm Hall
+  CS101 TTh 11AM, Turing Aud.

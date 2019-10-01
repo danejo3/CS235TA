@@ -1,0 +1,22 @@
+Insert time! the is Now
+PrintList
+Erase time!
+PrintList
+Erase Now
+Iterate
+PrintList
+Find is
+InsertAfter really is
+PrintList
+InsertAfter really Now
+PrintList
+InsertAfter really pig
+PrintList
+Erase really
+PrintList
+Find really
+Find time
+PrintList
+Replace really almost
+PrintList
+Clear

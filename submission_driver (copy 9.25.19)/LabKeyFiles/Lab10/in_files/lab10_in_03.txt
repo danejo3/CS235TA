@@ -1,0 +1,15 @@
+QuickSort 10
+AddToArray 7 6 5 4 9 8 1 -5 -1 -3 -2 -4
+Size
+Capacity
+PrintArray
+MedianOfThree 0 5
+PrintArray
+MedianOfThree 0 12
+PrintArray
+MedianOfThree 6 12
+PrintArray
+MedianOfThree 0 1
+PrintArray
+MedianOfThree 2 1
+PrintArray

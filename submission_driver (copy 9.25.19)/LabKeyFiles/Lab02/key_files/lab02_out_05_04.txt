@@ -1,0 +1,37 @@
+Student Schedules:
+Schroeder, 3333, Catcher, 555-3333
+  CS101 TTh 9AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+
+Charlie, 1234, Pitcher, 555-1234
+  CS101 TTh 9AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+
+Shermy, 4321, 1st Base, 555-4321
+  PH100 T 11AM, Eureka Study
+
+Linus, 1111, 2nd Base, 555-1111
+
+Pig Pen, 7890, 3rd Base, 555-7890
+  EE200 MWF 10AM, Eureka Hall
+  PH100 T 11AM, Eureka Study
+
+Snoopy, 9876, Shortstop, 555-9876
+  EE200 MWF 10AM, Eureka Hall
+  PH100 T 11AM, Eureka Study
+
+Patty, 5678, Left Field, 555-5678
+  CS101 TTh 9AM, Eureka Lab
+  PH100 T 11AM, Eureka Study
+
+Lucy, 1212, Center Field, 555-1212
+  CS101 TTh 9AM, Eureka Lab
+
+Frieda, 4444, Right Field, 555-4444
+  CS101 TTh 9AM, Eureka Lab
+  EE200 MWF 10AM, Eureka Hall
+
+Woodstock, 0000, Treehouse, 555-0000
+  CS101 TTh 9AM, Eureka Lab
+  CS202 MTWThF 2PM, Eureka Kitchen
+  EE200 MWF 10AM, Eureka Hall

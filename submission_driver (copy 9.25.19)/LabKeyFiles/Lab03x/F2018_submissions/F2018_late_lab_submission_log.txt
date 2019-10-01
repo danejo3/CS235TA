@@ -1,0 +1,4 @@
+2018-09-21 00:13:49,Lab01,stevie33,4,V,(grades.zip),stephenhoward330@gmail.com,""
+2018-09-21 00:34:17,Lab01,sschmuhl,4,V,(grades.zip),sam.schmuhl18@gmail.com,""
+2018-09-21 01:13:26,Lab01,aslansky,12,V,(grades.zip),alex.slansky@gmail.com,""
+2018-09-21 08:39:33,Lab01,clarki2,7,V,(grades.zip),iclark1B@gmail.com,""

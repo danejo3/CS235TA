@@ -1,0 +1,23 @@
+Input Strings:
+snap(12345,Charley Brown,12 Apple St,555-1234).
+snap(67890,Lucy Van Pelt,34 Pear Ave,555-5678).
+snap(22222,Peppermint Patty,56 Grape Blvd,555-9999).
+snap(33333,Snoopy,12 Apple St,555-1234).
+csg(CS101,12345,A).
+csg(CS101,67890,B).
+csg(CS101,33333,A-).
+csg(EE200,12345,C).
+csg(EE200,22222,B+).
+csg(EE200,33333,B).
+csg(PH100,22222,A).
+csg(PH100,67890,C+).
+cdh(EE200,T,10AM).
+cdh(EE200,W,10AM).
+cdh(EE200,Th,10AM).
+cdh(PH100,T,11AM).
+cdh(PH100,Th,11AM).
+cdh(CS101,T,1PM).
+cdh(CS101,Th,1PM).
+cr(CS101,Eureka Lab).
+cr(EE200,Eureka Hall).
+cr(PH100,Eureka Study).

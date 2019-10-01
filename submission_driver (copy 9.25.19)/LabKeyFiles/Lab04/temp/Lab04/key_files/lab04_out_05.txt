@@ -1,0 +1,25 @@
+
+Insert time! the is Now
+PrintList Now is the time!
+Erase time! OK
+PrintList Now is the
+Erase Now OK
+Iterate
+ [is]
+ [the]
+PrintList is the
+Find is true
+InsertAfter really is OK
+PrintList is really the
+InsertAfter really Now Not Found
+PrintList is really the
+InsertAfter really pig Not Found
+PrintList is really the
+Erase really OK
+PrintList is the
+Find really false
+Find time false
+PrintList is the
+Replace really almost Not Found!
+PrintList is the
+Clear OK

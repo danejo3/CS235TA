@@ -1,0 +1,46 @@
+cdh(CS100,M,4:00pm).
+cdh(CS100,W,4:00pm).
+cdh(CS100,F,4:00pm).
+cdh(CS142,T,4:00pm).
+cdh(CS142,Th,4:00pm).
+cdh(ENGL251,T,1:00pm).
+cdh(ENGL251,Th,1:00pm).
+cdh(HIST201,T,3:00pm).
+cdh(HIST201,Th,3:00pm).
+cdh(HIST202,T,3:00pm).
+cdh(HIST202,Th,3:00pm).
+cdh(PHIL150,M,9:00am).
+cdh(PHIL150,W,9:00am).
+cdh(PHIL150,F,9:00am).
+cr(CS100,320 MARB).
+cr(CS142,1170 TMCB).
+cr(ENGL251,3106 JKB).
+cr(HIST201,502 SWKT).
+cr(HIST202,3402 MCKB).
+cr(PHIL150,B92 JFSB).
+csg(CS100,44444,C).
+csg(CS100,22222,C).
+csg(CS100,55555,C).
+csg(CS100,12345,C+).
+csg(CS100,11111,B).
+csg(CS142,33333,B+).
+csg(CS142,22222,C+).
+csg(ENGL251,44444,B).
+csg(ENGL251,33333,C+).
+csg(HIST201,33333,A-).
+csg(HIST201,44444,B).
+csg(HIST201,12345,A).
+csg(HIST201,22222,A).
+csg(HIST201,55555,B-).
+csg(HIST202,11111,A-).
+csg(PHIL150,55555,C+).
+csg(PHIL150,22222,C-).
+csg(PHIL150,11111,B-).
+csg(PHIL150,33333,A).
+csg(PHIL150,12345,A-).
+snap(12345,Charles,236 Apple,555-5555).
+snap(11111,Ferdinand,100 Briar,444-1111).
+snap(22222,Henry,54 Cherry,800-1234).
+snap(33333,William,999 Dogwood,999-9999).
+snap(44444,Alexander,423 Oak,123-4567).
+snap(55555,Attila,1023 Fox,321-7654).

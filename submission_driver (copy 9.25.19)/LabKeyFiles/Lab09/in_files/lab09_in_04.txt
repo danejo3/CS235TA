@@ -1,0 +1,18 @@
+Pokemon: Hitmontop fighting
+Pokemon: Misdreavus ghost
+
+Move: triple_kick fighting
+Move: psybeam psychic
+
+Effective: psychic fighting poison
+Effective: fighting rock dark steel
+
+Ineffective: psychic steel psychic dark
+Ineffective: fighting flying poison bug psychic
+
+Pokemon
+Moves
+Effectivities
+Ineffectivities
+
+Battle: Misdreavus psybeam Hitmontop triple_kick

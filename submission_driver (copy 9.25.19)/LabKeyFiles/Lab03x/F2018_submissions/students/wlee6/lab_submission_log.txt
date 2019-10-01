@@ -1,0 +1,8 @@
+2018-09-20 14:03:51,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 14:18:19,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 14:21:57,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 17:17:08,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 17:21:12,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 17:31:37,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 17:33:31,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""
+2018-09-20 17:48:07,Lab01,wlee6,6,V,(grades.zip),wanluanlee@gmail.com,""

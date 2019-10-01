@@ -1,0 +1,6 @@
+Student Schedules:
+Charlie Brown, 12345, Manager, 555-1234
+  CS101 MW 9AM, 1170 TMCB
+
+Lucy, 67890, Right Field, 555-5678
+  CS101 MW 9AM, 1170 TMCB

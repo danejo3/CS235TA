@@ -1,0 +1,2 @@
+Expression: 4 % 2 5 -
+Infix: Missing Operator

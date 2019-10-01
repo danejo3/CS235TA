@@ -1,0 +1,6 @@
+2018-09-20 20:57:44,Lab01,abc0123,8,V,(grades.zip),noahjlvtt@gmail.com,""
+2018-09-21 12:13:33,Lab01,abc0123,0,V,(grades.zip),noahjlvtt@gmail.com,""
+2018-09-21 16:02:08,Lab01,abc0123,0,V,(grades.zip),noahjlvtt@gmail.com,""
+2018-09-21 16:38:57,Lab01,abc0123,9,V,(grades.zip),noahjlvtt@gmail.com,""
+2018-09-21 17:29:46,Lab01,abc0123,10,V,(grades.zip),noahjlvtt@gmail.com,""
+2018-09-21 17:33:08,Lab01,abc0123,10,V,(grades.zip),noahjlvtt@gmail.com,""

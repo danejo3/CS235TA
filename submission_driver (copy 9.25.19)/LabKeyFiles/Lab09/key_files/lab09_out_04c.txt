@@ -1,0 +1,5 @@
+Battle: Scizor fury_cutter Typhlosion inferno
+  Scizor (fury_cutter) vs Typhlosion (inferno)
+  Scizor's fury_cutter is ineffective against Typhlosion
+  Typhlosion's inferno is super effective against Scizor
+  In the battle between Scizor and Typhlosion, Typhlosion wins!

@@ -1,0 +1,7 @@
+compiling files:
+Gradebook.cpp
+main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+
+Compilation Succeeded!

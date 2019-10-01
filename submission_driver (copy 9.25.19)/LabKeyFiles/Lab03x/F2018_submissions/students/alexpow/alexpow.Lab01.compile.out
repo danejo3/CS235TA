@@ -1,0 +1,9 @@
+compiling files:
+Source.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+Source.cpp:12:21: warning: ISO C++11 requires whitespace after the macro name
+ #define VS_MEM_CHECK;
+                     ^
+
+Compilation Succeeded!

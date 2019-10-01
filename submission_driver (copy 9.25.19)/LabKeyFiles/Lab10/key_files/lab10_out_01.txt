@@ -1,0 +1,8 @@
+QuickSort 10 OK
+Capacity 10
+QuickSort 1000 OK
+Capacity 1000
+Clear OK
+Capacity 1000
+QuickSort 1 OK
+Capacity 1

@@ -1,0 +1,4 @@
+2018-09-20 15:30:18,Lab01,sc575,8,V,(grades.zip),stepherscarlson@gmail.com,""
+2018-09-21 11:30:28,Lab01,sc575,8,V,(grades.zip),stepherscarlson@gmail.com,""
+2018-09-21 11:32:49,Lab01,sc575,10,V,(grades.zip),stepherscarlson@gmail.com,""
+2018-09-21 11:36:44,Lab01,sc575,10,V,(grades.zip),stepherscarlson@gmail.com,""

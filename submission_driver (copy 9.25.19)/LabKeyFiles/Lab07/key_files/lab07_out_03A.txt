@@ -1,0 +1,75 @@
+Solve Maze:
+Layer 1
+ _ _ X _ X X X _ _ _
+ X X X _ X X X _ X _
+ _ _ _ _ X X X _ X _
+ _ X X X X X X _ X _
+ _ X X X X X X _ X _
+Layer 2
+ X _ X _ X X _ _ X X
+ X X X X X X _ X X X
+ X X X X X X _ X X X
+ X X X X X X _ X X X
+ _ X X X X X _ X X _
+Layer 3
+ X _ X _ X X X X X X
+ X _ X X X X X X X X
+ X _ _ _ X X X X X X
+ X X X X X X X X X X
+ _ X X X X X _ X X _
+Layer 4
+ X X X _ X X _ X X X
+ X X X X X X _ X X X
+ X X X _ X X _ X X X
+ X X X X X X _ X X X
+ _ X X X X X _ X X _
+Layer 5
+ X X X _ X X _ X X X
+ X X X X X X X X X X
+ X X X _ X X X X X X
+ X X X X X X X X X X
+ _ X X X X X X X X _
+Layer 6
+ X X X _ X X _ X X X
+ X X X _ X X _ X X X
+ X X X _ X X _ X X X
+ X X X X X _ _ X X X
+ _ _ _ _ _ _ _ X X _
+
+Solution:
+Layer 1
+ 2 2 X 2 X X X 2 2 2
+ X X X 2 X X X _ X 2
+ 2 2 2 2 X X X _ X 2
+ 2 X X X X X X _ X 2
+ 2 X X X X X X _ X 2
+Layer 2
+ X 2 X 2 X X 2 2 X X
+ X X X X X X 2 X X X
+ X X X X X X 2 X X X
+ X X X X X X 2 X X X
+ 2 X X X X X 2 X X 2
+Layer 3
+ X 2 X 2 X X X X X X
+ X 2 X X X X X X X X
+ X 2 2 2 X X X X X X
+ X X X X X X X X X X
+ 2 X X X X X 2 X X 2
+Layer 4
+ X X X 2 X X 2 X X X
+ X X X X X X 2 X X X
+ X X X 2 X X 2 X X X
+ X X X X X X 2 X X X
+ 2 X X X X X 2 X X 2
+Layer 5
+ X X X 2 X X 2 X X X
+ X X X X X X X X X X
+ X X X 2 X X X X X X
+ X X X X X X X X X X
+ 2 X X X X X X X X 2
+Layer 6
+ X X X 2 X X 2 X X X
+ X X X 2 X X 2 X X X
+ X X X 2 X X 2 X X X
+ X X X X X _ 2 X X X
+ 2 2 2 2 2 2 2 X X 3

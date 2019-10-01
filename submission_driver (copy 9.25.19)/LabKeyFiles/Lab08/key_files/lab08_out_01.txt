@@ -1,0 +1,29 @@
+INT true
+add 1 true
+add 2 true
+print:
+  1: 1
+  2: _ 2
+add 0 true
+add 4 true
+add 0 false
+add 4 false
+print:
+  1: 1
+  2: 0 2
+  3: _ 4
+STRING true
+add dog true
+add cat true
+add pig true
+add horse true
+print:
+  1: dog
+  2: cat pig
+  3: horse _
+add cat false
+add horse false
+print:
+  1: dog
+  2: cat pig
+  3: horse _

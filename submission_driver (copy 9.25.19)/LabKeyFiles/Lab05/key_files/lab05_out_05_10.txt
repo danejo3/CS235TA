@@ -1,0 +1,2 @@
+Expression: 3 % { 7 - ( 2 / [ 5 - 81 ] } + 1 )
+Infix: Unbalanced

@@ -1,0 +1,13 @@
+compiling files:
+Main.cpp
+
+g++ -g -Wall -std=c++17 -o run_me *.cpp
+Main.cpp: In function ‘int main(int, char**)’:
+Main.cpp:35:29: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (unsigned int i = 0; i < numStudents; i++) {
+                           ~~^~~~~~~~~~~~~
+Main.cpp:40:30: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (unsigned int j = 0; j < numExams; j++) {
+                            ~~^~~~~~~~~~
+
+Compilation Succeeded!

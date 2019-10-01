@@ -1,0 +1,7 @@
+6 8
+Cody Coder  84 100 100 70 100 80 100 65
+Harry Houdini  77 68 65 100 96 100 86 100
+Harry Potter  100 100 95 91 100 70 71 72
+Mad Mulligun  88 96 100 90 93 100 100 100
+George Washington  100 72 100 76 82 71 82 98
+Abraham Lincoln  93 88 100 100 99 77 76 93

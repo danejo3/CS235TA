@@ -1,0 +1,5 @@
+Battle: Charmander flamethrower Bulbasaur scratch
+  Charmander (flamethrower) vs Bulbasaur (scratch)
+  Charmander's flamethrower is super effective against Bulbasaur
+  Bulbasaur's scratch is effective against Charmander
+  In the battle between Charmander and Bulbasaur, Charmander wins!

@@ -1,0 +1,3 @@
+2018-09-20 15:24:29,Lab01,tayloric,4,V,(grades.zip),tayloric09@gmail.com,""
+2018-09-20 15:32:00,Lab01,tayloric,4,V,(grades.zip),tayloric09@gmail.com,""
+2018-09-20 15:36:58,Lab01,tayloric,4,V,(grades.zip),tayloric09@gmail.com,""
