@@ -65,11 +65,19 @@ learned over the past year.
 
 📁 LabKeyFiles - contains all the key files that the driver will use to compare
 against the student's outputs to key files.
+
 📁 logs - contains 
+
 🐍 Compile_Driver.py - 
+
 ⚙ compiler_global.cfg -
+
 🐍 ConfigFile.py -
+
 ☰ cronLog.txt -
+
 🐍 GradedResult.py -
+
 🐍 Grader.py -
+
 🐚 runCompileDriver.sh -
