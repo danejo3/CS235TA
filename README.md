@@ -58,3 +58,18 @@ I leave and hope that whoever comes across this will benefit from what I have
 learned over the past year.
 
 *Cheers*
+
+
+
+# Files #
+
+📁 LabKeyFiles - contains all the key files that the driver will use to compare
+against the student's outputs to key files.
+📁 logs - contains 
+🐍 Compile_Driver.py - 
+⚙ compiler_global.cfg -
+🐍 ConfigFile.py -
+☰ cronLog.txt -
+🐍 GradedResult.py -
+🐍 Grader.py -
+🐚 runCompileDriver.sh -
