@@ -11,7 +11,7 @@ driver and what I plan on doing with the driver during fall 2019 semester.
 
 # History of The Driver: #
 
-Ever since Brother Roper began teaching CS 235 in Fall 2017, Brother Roper's
+Ever since Brother Roper began teaching CS 235 in Fall 2018, Brother Roper's
 goal was to relieve the responsibility of TAs passing off students by creating
 an automatic online pass-off driver. By creating this driver, essentially the
 driver would allow the TAs to spend more time with the students and avoid long
@@ -70,7 +70,7 @@ against the student's outputs to key files.
 
 🐍 Compile_Driver.py - 
 
-⚙ compiler_global.cfg -
+⚙ compiler_global.cfg - 
 
 🐍 ConfigFile.py -
 
