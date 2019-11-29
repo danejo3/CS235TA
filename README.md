@@ -2,62 +2,56 @@
 
 # Introduction: #
 
-Hi! My name is Dane and I have been working as a CS 235 TA for the past 3.5
-years. Currently, I am responsible to make sure the driver is running for
-Brother Roper. In this README file, I will document the history of the
-driver and what I plan on doing with the driver during fall 2019 semester.
+Hi! My name is Dane and I have been working on the driver for about a year. 
+I hope that this README file will be helpful you. I will document the history 
+of the driver, give a quick explaination of each file, and teach you how to 
+run this driver.
 
 
 
 # History of The Driver: #
 
-Ever since Brother Roper began teaching CS 235 in Fall 2018, Brother Roper's
-goal was to relieve the responsibility of TAs passing off students by creating
-an automatic online pass-off driver. By creating this driver, essentially the
-driver would allow the TAs to spend more time with the students and avoid long
-pass-off lines that hundreds of students complained about in the past.
+The idea of an "automatic pass-off driver" began when Brother Roper started
+teaching CS 235 in Winter 2018. One of the biggest problems that we had as TAs
+were pass-off days. On these days, the queue to pass-off and to get help from 
+the TAs were incredibly long. There were two reasons that caused this problem: 
+1) all labs were graded manually, and 2) students who were passing-off were 
+given higher priority than those that needed help. As a result, students that 
+needed help, on average, had to wait for 1+ hours in the queue. To solve this 
+problem, Brother Roper hired another TA to write-up the automatic pass-off 
+driver.
 
-The first person that began this long arduous project was Mike Liddle.
-The first time I've ever saw and met Mike was during a TA meeting; it was also 
-the last time that I'd ever see him. I wasn't particularly close with him, nor did I know him personally, but I do remember Brother Roper telling us what Mike did while we
-were helping the students.
+The first person that started working on the driver was Mike Liddle. From my 
+understanding, it was Mike that decided to write the driver in Python. (I do not 
+know the reason why.) Unfortunately, after a few month(s)? into the semester, I 
+was told that he had stopped working as a CS 235 TA. Jason Anderson, who was the 
+head TA at the time, did not have time to work on the driver. As result, the 
+driver was on a pause.
 
-Basically, the reason why I never saw him again was because after a few 
-month(s)?, he decided to quit. I'm not sure exactly when and why he chose
-to quit but the driver was far from complete. Due to the incompleteness
-of the driver and the need to get it done before the upcoming winter semester, 
-Brother Roper asked Stephen Leach, who was the head TA at the time, to pick up where Mike left off.
+The next person that began working on the driver was Stephen Leech, the next head 
+TA. About ~90% of code that you see today was written by Stephen. In Fall 2018, 
+Stephen was able to miraculously launch a live "automatic pass-off driver" for 
+Brother Roper's Fall 2018 students. To be short and blunt, the driver had a lot 
+of problems. Throughout the semester, the driver crashed constantly and had tons 
+of run-time errors. Thankfully, for a year, Stephen was able to fix many of 
+problems that plagued the driver and had added a lot of good key features.
 
-Quickly realizing how much there was to do between being the head TA and working on the far-from-complete driver, Stephen was swamped. Throughout the entire semester, I remember
-Stephen asking me questions about Python because the driver was originally written
-in Python by Mike. Because Python was not Stephen's strongest language, the end result was a barely functional mess. After seeing what a mess it was, Brother Roper asked Stephen to rewrite the entire driver for Winter Semester over Christmas break --which he did. (Poor Stephen...)
+Unfortunately, at the beginning of the Winter 2019, Stephen had stopped working 
+and had passed the driver onto me. Although the driver had been maintained pretty 
+well by Stephen, there were still a lot of problems that needed to be fixed. For 
+the past year, I've been fixing and maintaining the driver. As of right now the 
+driver is pretty stable and rarely crashes (if it does, 99% of the time, Brother
+Roper and I have found out that it wasn't the driver's fault. For more information
+about this, you can talk to Brother Roper).
 
-Miraculously, Stephen was able to rewrite the entire driver during winter
-break and we launched his live prototype in Winter 2018. 
-
-Although the pass-off driver was far from perfect and changes were made throughout
-the semester, it got the job done and truly helped the students receive more time 
-with the TAs. (Yay Stephen!!!)
-
-After using Stephen's pass-off driver for almost a year, Stephen decided to
-quit fall 2018. It was a dark time for all the TAs... Because I was the 'eldest' TA
-and understood some Python, Stephen knew I was the next best candidate to take over his legacy. So here I was, left with a semi-broken driver in the middle of winter semester, left alone to frantically understand Stephen's code and resolve critical issues that plagued the student's submissions. 
-
-It was hard. 
-
-Ever since Stephen left, I've been fixing and polishing the driver along with 
-Matthew Cox--the former head TA. Due to the complexity of the driver's code,
-Matthew and I decided that it would best if we only fix or add code when necessary.
-After fixing a lot of problems with the driver throughout winter semester, we were
-able to get the driver relatively stable.
-
-As of today, the day I'm writing this blurb, the driver is still far from perfect
-but has been running a lot more smoothly than the past. Because this is my last
-semester as a CS 235 TA, my goal is to document and comment as much as I can before
-I leave and hope that whoever comes across this will benefit from what I have
-learned over the past year.
+As of today, Brother Roper is using the driver in tandem with his CS 235 website 
+(https://students.cs.byu.edu/~cs235ta/). From my understanding, maybe in a year?, 
+Brother Roper is going to replace this driver with his C++ version. Until then, 
+I'll continue maintaining the driver until I graduate in April 2020.
 
 *Cheers*
+
+"Here, there be dragons." ~Stephen
 
 
 
