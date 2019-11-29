@@ -10,13 +10,11 @@ isRunning=`ps auxw | grep Compile_Driver | grep python`
 if [ -z "$isRunning" ]; then
   # if isRunning is empty, then the script is not running, so we need to run it.
   /users/groups/cs235ta/submission_driver/Compile_Driver.py
-  # logging that we executed the Compile_Driver.py script again.
+  # logging that we executed "Compile_driver.py" in "cronLog.txt".
   /bin/echo "Now running script..." >> /users/groups/cs235ta/submission_driver/cronLog.txt
 
 else
   # otherwise we log that the script is running.
-
-  # logging result to the cronLog.
   echo "Time Stamp: (Last time the Submission Driver was online.)" > /users/groups/cs235ta/submission_driver/cronLog.txt
   echo $(date) >> /users/groups/cs235ta/submission_driver/cronLog.txt
   echo "" >> /users/groups/cs235ta/submission_driver/cronLog.txt
