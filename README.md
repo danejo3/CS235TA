@@ -97,3 +97,8 @@ let it run.
 \* \* \* \* \* /users/groups/cs235ta/submission_driver/runCompileDriver.sh 
     &>> /users/groups/cs235ta/submission_driver/cronLog.txt
 For more instructions, please see the "Instructions to Run Driver."
+
+
+
+# Instructions to Setup Driver: #
+
