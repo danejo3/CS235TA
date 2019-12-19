@@ -29,7 +29,7 @@ DEBUG = False
 WIN_DEBUG = False
 
 # specifies the root directory for the program to be run in.
-ROOT_DIR = '/users/groups/cs235ta/submission_driver/'                        # <-------------- take a look here
+ROOT_DIR = '/users/groups/cs235ta/submission_driver/'
 
 # if running on a windows machine, adjust accordingly.
 if WIN_DEBUG:

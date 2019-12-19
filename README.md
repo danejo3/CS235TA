@@ -102,3 +102,25 @@ For more instructions, please see the "Instructions to Run Driver."
 
 # Instructions to Setup Driver: #
 
+To those that are setting up the driver,
+
+Setting up the driver is easy; however, before you jump into setting it up, 
+in a few files, you need to update a few lines of code.
+
+First, you need to edit "Compiler_Driver.py" on line 32. Currently, as of 
+December 19, 2019, Brother Roper is using 
+"/users/groups/cs235ta/submission_driver/." If you are not Brother Roper,
+I highly recommend that you create a different path for the driver because
+if you plan on having differernt labs, the key files located in the current 
+driver will we different and will therefore grade your student's output 
+incorrectly. If you have plan on having the same labs as Brother Roper, for 
+example, I still recommend that you create your own path because the way the 
+driver is coded up. As of right now, it cannot support mutliple professors.
+As a result, the solution to this problem is to create a "duplicate" driver
+running seperately from other drivers.
+
+Last, you need to edit "compiler_global.cfg." Because this contains all the
+file paths for all the driver's .py files, you only need to change this once.
+For each line, adjust accordingly.
+
+Once you have edited both files, you can then read the "howto_driver_setup.pdf."
