@@ -15,7 +15,7 @@ The idea of an "automatic pass-off driver" began when Brother Roper started
 teaching CS 235 in Winter 2018. One of the biggest problems that we had as TAs
 were pass-off days. On these days, the queue to pass-off and to get help from 
 the TAs were incredibly long. There were two reasons that caused this problem: 
-1) all labs were graded manually, and 2) students who were passing-off were 
+First, all labs were graded manually, and last, students who were passing-off were 
 given higher priority than those that needed help. As a result, students that 
 needed help, on average, had to wait for 1+ hours in the queue. To solve this 
 problem, Brother Roper hired another TA to write-up the automatic pass-off 
