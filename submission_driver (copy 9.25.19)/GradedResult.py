@@ -23,8 +23,6 @@ class GradedResult:
         self.late_message = self.config.late_message
         self.map_file_to_valgrind = {}
 
-
-
     def set_valgrind_message(self, file_name, message):
         self.map_file_to_valgrind[file_name] = message
 
@@ -65,12 +63,8 @@ class GradedResult:
             self.final_message += line
             self.final_message += '<br>'
 
-
         self.final_message += '<br>Your total score is '
-#        if self.late is False:
         self.final_message += str(self.get_score())
-#        else:
-#            self.final_message += str((self.points_awarded + self.bonus_points_awarded + self.mem_points_awarded) * self.config.late_ratio)
         self.final_message += ' points out of '
         self.final_message += str(self.points_total)
         self.final_message += ' points possible.<br><br>----------------------------------------------------------------<br>'
@@ -83,8 +77,6 @@ class GradedResult:
         s = self.lab_name
         s += ' Score: ' 
         p = self.get_score()
-        #if self.late is True:
-        #    p = p * self.config.late_ratio
         s += str(p)
         s += ' out of '
         s += str(self.points_total)
@@ -93,6 +85,7 @@ class GradedResult:
     def add_forfeited_score(self, points):
         self.points_total += points
         return
+
     def add_forfeited_bonus_score(self, points):
         self.bonus_points_total += points
         return
@@ -136,10 +129,7 @@ class GradedResult:
             self.append_message(['<br>Failed'] + message)
         return
             
-
-
     def mem_check(self, point_value):
-        #self.points_awarded += point_value
         self.mem_points_awarded += point_value
         return
 
@@ -214,6 +204,7 @@ class GradedResult:
         else:
             self.memory_message.append('0 points awarded.')
         return
+        
     def set_late(self, l):
         self.late = l
         return

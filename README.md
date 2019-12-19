@@ -25,14 +25,14 @@ The first person that started working on the driver was Mike Liddle. From my
 understanding, it was Mike that decided to write the driver in Python. (I do not 
 know the reason why.) Unfortunately, after a few month(s)? into the semester, I 
 was told that he had stopped working as a CS 235 TA. Jason Anderson, who was the 
-head TA at the time, did not have time to work on the driver. As result, the 
-driver was on a pause.
+head TA at the time, did not have time to work on the driver. As a result, the 
+implemntation of the driver was on a pause.
 
 The next person that began working on the driver was Stephen Leech, the next head 
 TA. About ~90% of code that you see today was written by Stephen. In Fall 2018, 
-Stephen was able to miraculously launch a live "automatic pass-off driver" for 
-Brother Roper's Fall 2018 students. To be short and blunt, the driver had a lot 
-of problems. Throughout the semester, the driver crashed constantly and had tons 
+Stephen miraculously launched a live "automatic pass-off driver" for Brother 
+Roper's Fall 2018 students. To be short and blunt, the driver had a lot of 
+problems. Throughout the semester, the driver crashed constantly and had tons 
 of run-time errors. Thankfully, for a year, Stephen was able to fix many of 
 problems that plagued the driver and had added a lot of good key features.
 
@@ -60,18 +60,40 @@ I'll continue maintaining the driver until I graduate in April 2020.
 📁 LabKeyFiles - contains all the key files that the driver will use to compare
 against the student's outputs to key files.
 
-📁 logs - contains 
+📁 logs - contains log files. One paraticular log file that would be of interest
+is the "*_email_log.txt." This file contains who, what lab, and when a student
+submitted a lab.
 
-🐍 Compile_Driver.py - 
+🐍 Compile_Driver.py - This .py file contains the function that starts the entire
+driver (take a look at "submission_driver()").
 
-⚙ compiler_global.cfg - 
+⚙ compiler_global.cfg - This config file is very important. In this file, it
+contains all the paths to a file or directory needed for the driver. Stephen
+wanted this file so he wouldn't have to type it out multiple times each each
+.py file.
 
-🐍 ConfigFile.py -
+🐍 ConfigFile.py - parses "compiler_global.cfg."
 
-☰ cronLog.txt -
+☰ cronLog.txt - The purpose of this .txt file is to let you know how long the
+driver has been running. If the driver has stopped, it will let you know when
+it stopped and how long it has stopped. About every 30 seconds, it should be
+updating constantly.
 
-🐍 GradedResult.py -
+🐍 GradedResult.py - The purpose of this .py file is to set up a clean text
+view of the student's grade on the lab.
 
-🐍 Grader.py -
+🐍 Grader.py - The purpose of this .py file is to compile, run (with valgrind),
+and grade the student's code by comparing their outputs with the key files. 
+Furthermore, this code will check and flag students if they are using code that 
+shouldn't be using. For example, if vectors were not allowed, the students when 
+they recieve their results will say "Illegal use of <blank>". (This feature was 
+added by Brother Roper's request.) 
 
-🐚 runCompileDriver.sh -
+🐚 runCompileDriver.sh - This .sh is called by the cronjob* to make sure the
+driver is running. If it isn't, it will restart the job; otherwise, continue
+let it run.
+
+* - The cronjob command that I use is:
+* * * * * /users/groups/cs235ta/submission_driver/runCompileDriver.sh 
+    &>> /users/groups/cs235ta/submission_driver/cronLog.txt
+For more instructions, please see the "Instructions to Run Driver."

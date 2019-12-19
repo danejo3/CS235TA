@@ -249,8 +249,6 @@ def get_valgrind_message(result, file_name, out_file_name):
     # adding valgrind error notes <----------------------------------------------------------------- 2/14/19
     replaced_newlines = result.replace('\\n', '\n')
 
-
-
     s = ' with input file: ' + file_name
     #vo = 'valgrind --leak-check=full --show-leak-kinds=all ./run_me ' + file_name + ' ' + out_file_name + '\n' + truncate_valgrind_resuilt(replaced_newlines) + '\n\n'
     vo = 'valgrind --leak-check=full --show-leak-kinds=all ./run_me ' + file_name + ' ' + out_file_name + '\n' + replaced_newlines + '\n\n'
@@ -333,7 +331,6 @@ def out_file_contains_key_in_order(out_file_name, key_file_name, squash_h, squas
         i += 1
     return None #This is the equivalent of True
 
-
 def out_file_contains_key(out_file_name, key_file_name, squash_h):
     key_file = open(key_file_name, 'r+')
     with open(out_file_name, 'a+') as f:
@@ -359,7 +356,6 @@ def in_array(key_line, array, squash_h):
         if key_line == line:
             return True
     return False
-
 
 def log_error(myString):
     with open('/users/groups/cs235ta/submission_driver/logs/W2019_errors.txt', 'a+') as f:
@@ -420,7 +416,7 @@ def get_driver_command(my_array):
     new_array = [] 
     for line in my_array:
         if line[:1] == '\"':
-            break;
+            break
         new_array.append(line)
     return new_array
 

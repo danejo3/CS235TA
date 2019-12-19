@@ -2,7 +2,7 @@
 
 #============== Compile_Driver.py ====================#
 #                                                     #
-# Authors: Mike Liddle & Stephen Leach and Dane Jo    #
+# Authors: Mike Liddle & Stephen Leach & Dane Jo      #
 # Brigham Young University                            #
 #                                                     #
 # Purpose: this software is to be used for the        #
@@ -29,7 +29,7 @@ DEBUG = False
 WIN_DEBUG = False
 
 # specifies the root directory for the program to be run in.
-ROOT_DIR = '/users/groups/cs235ta/submission_driver/'
+ROOT_DIR = '/users/groups/cs235ta/submission_driver/'                        # <-------------- take a look here
 
 # if running on a windows machine, adjust accordingly.
 if WIN_DEBUG:
@@ -45,37 +45,67 @@ config_file_object = ConfigFile(ROOT_DIR + 'compiler_global.cfg')
 #       net_id's score, or inserting it if the first  #
 #       submission.                                   #
 #                                                     #
+#       the file that this function will update is    #
+#       "LabXXgrades.csv". This file is located in    #
+#       the "/public_html/XX20XX_submissions" folder  #
+#                                                     #
+# Parameters:                                         #
+#       file_name (str): e.g. "Lab01grades.csv"
+#       net_id (): The student's net ID
+#       grade (): 
+#       late (): boolean?
 #=====================================================#
 def store_grade(file_name, net_id, grade, late):
     on_time_grade = 0
     late_grade = 0
-    with open(file_name, 'a+'):
-        pass
+    
+    # The open() method returns back a file object.
+    # The 'r+' parameter in open() means that the file can be read and written to. 
+    # The stream is also positioned at the begining of the file.
     myFile = open(file_name, 'r+')
+    # The readlines() method returns a list containing each line in the file as a list item.
     myLines = myFile.readlines()
     myNewLines=[]
+
+    # Here is an example of a line: stud00, 50.0, 0.0, 2019-06-24 16:27:03.388867
+    # The line goes by this order: student id, on time score, late score, date time
     for line in myLines:
         isDuplicate = False
+        
         for word in line.split():
+            # Check if the student's net id matches with current line's net id.
+            # If the strings match, do not add the line to the "myNewLines" list.
+            # The line's "ontime score" and "late score" will be stored to check
+            # if the student's recent lab submission had improved (look at the
+            # following lines of code after the double loop).
             if word == net_id + ",":
                 isDuplicate = True
                 temp = line.split(', ')
                 on_time_grade = float(temp[1])
                 late_grade = float(temp[2])
 
+        # If the student's net id did not match, put the current line into myNewLines. 
         if isDuplicate is False:
             myNewLines.append(line)
     myFile.close()
+
+    # If the student's recent submission was late, we will update the late score only.
+    # Otherwise, we will update the ontime score. The highest score will be kept.
     if late:
         if late_grade < grade:
             late_grade = grade
     else:
         if on_time_grade < grade:
             on_time_grade = grade
+    
+    # The last element in the list (and last line of the .csv) will always be student 
+    # that driver had just graded.
     myNewLines.append(net_id + ', ' + str(on_time_grade) + ', ' + str(late_grade) + ', ' + str(datetime.datetime.now()) + '\n')
+    # The 'w' parameter truncates file to zero length or creates a text file for writing. 
+    # The stream is positioned at the beginning of the file. In summary, we are always
+    # rewriting the file.
     myNewFile = open(file_name, 'w')
     myNewFile.writelines(myNewLines)
-    return
 
 
 #=====================================================#
@@ -97,14 +127,11 @@ def compile_code(lab_name, net_id, email, log_date):
     with open('encodings.temp', 'w+') as temp:
         temp.writelines('\n'.join(str(p.stdout).split('\\n')))
 
-
-
     # include all cpp files in compilation, check file encoding.
     for f in os.listdir('.'):
-        subprocess.run(['chmod', '700', f]);
+        subprocess.run(['chmod', '700', f])
         # this is what checks the extension "*.cpp"
         subprocess.run(['dos2unix', f], stdout=subprocess.PIPE)
-
 
         p = subprocess.run(['file', f], stdout=subprocess.PIPE)
         myString = str(p.stdout)
@@ -113,10 +140,12 @@ def compile_code(lab_name, net_id, email, log_date):
         myString = " ".join(myList)
         myList = myString.split(',')
         index = -1
+
         for i in range(len(myList)):
             if myList[i].find("text") > -1:
                 index = i
                 break
+
         if index != -1:
             myString = myList[index].strip()
             myList = myString.split()
@@ -127,17 +156,15 @@ def compile_code(lab_name, net_id, email, log_date):
             encoding = myString
             subprocess.run(['iconv', '-f', encoding, '-t', 'utf-8', f, '-o', f + 'temp'])
             subprocess.run(['mv', f + 'temp', f])
-
         else:
             subprocess.run(['iconv', '-t', 'utf-8', f, '-o', f + 'temp'])
             subprocess.run(['mv', f + 'temp', f])
+
         p = subprocess.run(['file', f], stdout=subprocess.PIPE)
         myString = str(p.stdout)
+
         if myString.find('UTF-8') == -1:
             Grader.log_error("Invalid File: " + myString)
-            #subprocess.run(['rm', f])
-
-
 
         if os.path.isfile(f) and re.search('cpp', f):
             # the following process gets the file encoding.
@@ -186,12 +213,12 @@ def compile_code(lab_name, net_id, email, log_date):
 
         # log the result as well with the student information in case of errors.
         with open(config_file_object.get_compile_log(), 'a+') as compile_log:
-            compile_log.write(
-                ','.join([log_date, lab_name, net_id, email, str(p.returncode)]) + '\n')
+            compile_log.write(','.join([log_date, lab_name, net_id, email, str(p.returncode)]) + '\n')
     else:
         information_string += 'Compilation Not Performed.'
 
     return information_string
+
 
 #=====================================================#
 # run_student_code                                    #
@@ -205,9 +232,6 @@ def run_student_code(lab_name, net_id, email, log_date, late, log_line):
     global config_file_object
     os.chdir("TMP_DELETE")
 
-    #with open('../tmp.tmp', 'a+') as error_log:
-    #    error_log.write(str(datetime.datetime.now()) + "Start All\n")
-
     # compile the code.
     if(lab_name != "Lab12"):
         information_string = compile_code(lab_name, net_id, email, log_date)
@@ -219,7 +243,7 @@ def run_student_code(lab_name, net_id, email, log_date, late, log_line):
     grade = 0
     message = "Compilation failed... 0 points awarded.\n"
     subject = net_id + 'Compilation failed - ' + lab_name
-    #this is where we run the students' code and diff it
+    # this is where we run the students' code and diff it
     result = None
     if 'Compilation Succeeded' in information_string:
         if (lab_name != "Lab12"):
@@ -263,10 +287,8 @@ def run_student_code(lab_name, net_id, email, log_date, late, log_line):
     body = message
     body += '\n---------------------------------------------------------------'
     body += '<br><br>Your compilation results are as follows:\n'
-    #body += truncate_compilation_resuilt(information_string)
     body += information_string
 
-    #adding 2/22/19
     if(result != None):
         if(result.get_valgrind_message() != ""):
             body += '---------------------------------------------------------------\n\n'
@@ -275,7 +297,6 @@ def run_student_code(lab_name, net_id, email, log_date, late, log_line):
             body += 'Valgrind Failed!'
 
     # create the email object
-    # adding 2/23/19 to add the log line to the email subject
     if(late):
         emailID = " - #L" + str(log_line)
     else:
@@ -283,16 +304,6 @@ def run_student_code(lab_name, net_id, email, log_date, late, log_line):
     subject += emailID
     email_data = {'email': email, 'subject': subject, 'body': body}
     email_files = {'compile': open(net_id + '.' + lab_name + '.compile.out', 'rb')}
-
-    #with open('../tmp.tmp', 'a+') as error_log:
-    #    error_log.write(str(datetime.datetime.now()) + "End All\n")
-    # send the HTTP request to the endpoint to send the email.
-    #if(lab_name == "Lab00"):
-    #	r = requests.post("https://students.cs.byu.edu/~cs235ta/emailEndpoint/dummyMatthewProofOfConcept.php", data=email_data,
-    #                  files=email_files)
-    #else:
-    #    r = requests.post("https://students.cs.byu.edu/~cs235ta/emailEndpoint/dummy.php", data=email_data,
-    #                  files=email_files)
 
     r = requests.post("https://students.cs.byu.edu/~cs235ta/emailEndpoint/dummy.php", data=email_data,
                       files=email_files)
@@ -313,27 +324,6 @@ def run_student_code(lab_name, net_id, email, log_date, late, log_line):
     shutil.rmtree('TMP_DELETE', True)
 
 
-
-# adding this function to handle email body of compilation results
-# 2/12/2019
-def truncate_compilation_resuilt(results):
-    if(results.count('\n') > 50):
-        # print part of the body if the results string is super long
-        mylist = results.split('\n')
-
-        truncated_string = ""
-        for i in range(0,50):
-            truncated_string = truncated_string + mylist[i] + "\n"
-        truncated_string += ". . . \n\n****Results were truncated**** \n\nCompilation failed!"
-        return truncated_string
-
-    return results
-
-
-
-
-
-
 #=====================================================#
 # submission_driver                                   #
 #    this is the main driver function, it handles     #
@@ -343,15 +333,13 @@ def truncate_compilation_resuilt(results):
 #    functionality.                                   #
 #                                                     #
 #=====================================================#
-
-
 def submission_driver():
     global config_file_object
 
     # this creates the log file object from the log file given in our config folder.
     log_file = LogFile(config_file_object.log_file_path)
     late_log_file = LogFile(config_file_object.late_log_file_path)
-    #print(config_file_object.log_file_path)
+
     # run this loop indefinitely.  Cron should handle any breaking from this loop.
     while True:
         # wrap everything in a try/except to handle errors gracefully and report them.
