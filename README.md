@@ -93,7 +93,7 @@ added by Brother Roper's request.)
 driver is running. If it isn't, it will restart the job; otherwise, continue
 let it run.
 
-* - The cronjob command that I use is:
-* * * * * /users/groups/cs235ta/submission_driver/runCompileDriver.sh 
+\* - The cronjob command that I use is:
+\* \* \* \* \* /users/groups/cs235ta/submission_driver/runCompileDriver.sh 
     &>> /users/groups/cs235ta/submission_driver/cronLog.txt
 For more instructions, please see the "Instructions to Run Driver."
