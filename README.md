@@ -124,3 +124,7 @@ file paths for all the driver's .py files, you only need to change this once.
 For each line, adjust accordingly.
 
 Once you have edited both files, you can then read the "howto_driver_setup.pdf."
+
+\*Remember!\* All of these things that I'm telling you is the back-end only.
+To figure out how to integrate the front-end with the back-end, please contact
+Brother Roper.
